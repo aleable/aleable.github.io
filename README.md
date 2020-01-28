@@ -1,3 +1,3 @@
 # aleable.github.io
 
-Personal web page of Alessandro Lonardi
+Personal web page of Alessandro Lonardi.

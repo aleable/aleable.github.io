@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+Clicking [<a href="CV.pdf">here</a>] you can download a .pdf version of my curriculum vitæ.
+
 Education
 ======
 * <b>Sep 1, 2020 - present</b><br />
@@ -27,7 +29,7 @@ Bachelor’s Degree in Physics at University of Padua, Italy
 Work experience
 ======
 * <b>Mar 1, 2020 - Aug 31, 2020</b><br />
-Research Intern at Max Planck Institute for Intelligent Systems: Physics for Inference and Optimization group, Tu ̈bingen, Germany
+Research Intern at Max Planck Institute for Intelligent Systems: Physics for Inference and Optimization group, Tübingen, Germany
   * <b>Supervisor</b>: Dr. Caterina De Bacco
   
 Languages

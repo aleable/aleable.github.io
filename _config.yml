@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Alessandro Lonardi"
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   bio              : "Ph.D. Student at Max Planck Institute for Intelligent Systems"
-  location         : "Office: S2.018 \nMax Planck Ring 4, \n 72070, Tübingen, Germany"
+  location         : "Tübingen, Germany"
   employer         :
   pubmed           :
   googlescholar    :
-  email            :
+  email            : "alessando.lonardi@tuebingen.mpg.de"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -97,13 +97,13 @@ author:
   facebook         :
   foursquare       :
   github           : "aleable"
+  orcid            : "https://orcid.org/0000-0003-4866-8088"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            :
+  linkedin         : "https://www.linkedin.com/in/alonardi/"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username

@@ -11,12 +11,19 @@ redirect_from:
 
 Education
 ======
-* Bachelor’s Degree in Physics at University of Padua, Italy
+
+Sep 1, 2020 – present
+* Ph.D. Student at Max Planck Institute for Intelligent Systems: Physics for Infer-ence and Optimization group, Tübingen, Germany
+ * Supervisor: Dr. Caterina De Bacco (MPI for Intelligent Systems)
+* Master’s Degree in Mathematical Engineering (Mathematical Modelling for Engineering and Science) at University of Padua, Italy (Oct 1, 2018 - July 23, 2020)
+  * Thesis: Developing new methods for routing and optimal transport on networks
+  * Supervisor: Prof. Mario Putti (UniPd)
+  * Co-supervisor: Dr. Caterina De Bacco (MPI for Intelligent Systems)
+* Bachelor’s Degree in Physics at University of Padua, Italy (Oct 1, 2015 - Sept 24, 2018)
   * Thesis: Dynamics and thermodynamics of the adiabatic piston
   * Supervisor: Prof. Giancarlo Benettin (UniPd)
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
+  
 Work experience
 ======
 * Summer 2015: Research Assistant

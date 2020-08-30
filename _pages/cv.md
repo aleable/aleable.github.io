@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Clicking <a href="../files/CV.pdf">here</a> you can download a .pdf version of my curriculum vitæ.
+Clicking <a href="../files/CV.pdf">here</a> you can download a pdf version of my curriculum vitæ.
 
 Education
 ======

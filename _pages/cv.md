@@ -11,7 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
+* Bachelor’s Degree in Physics at University of Padua, Italy
+  * Thesis: Dynamics and thermodynamics of the adiabatic piston
+  * Supervisor: Prof. Giancarlo Benettin (UniPd)
 * M.S. in Jekyll, GitHub University, 2014
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 

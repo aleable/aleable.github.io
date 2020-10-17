@@ -23,8 +23,7 @@ Master’s Degree in Mathematical Engineering (Mathematical Modelling for Engine
   * <b>Co-supervisor</b>: Dr. Caterina De Bacco (MPI for Intelligent Systems)
 * <b>Oct 1, 2015 - Sept 24, 2018</b><br />
 Bachelor’s Degree in Physics at University of Padua, Italy
-  * <b>Thesis</b>: <i>Dynamics and thermodynamics of the adiabatic piston<br/>
-  (Dinamica e termodinamica del pistone adiabatico 🇮🇹)</i>
+  * <b>Thesis</b>: <i>Dynamics and thermodynamics of the adiabatic piston</i> (<i>Dinamica e termodinamica del pistone adiabatico<i> 🇮🇹)
   * <b>Supervisor</b>: Prof. <a href="https://www.math.unipd.it/~benettin/">Giancarlo Benettin</a>
 
 Work experience

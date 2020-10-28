@@ -25,5 +25,5 @@ We present a model for finding optimal multi-commodity flows on networks based o
 &nbsp;&nbsp;&nbsp;&nbsp;author={Alessandro Lonardi and Enrico Facca and Mario Putti and Caterina De Bacco},<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;eprint={2010.14377},<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;archivePrefix={arXiv},<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;primaryClass={physics.soc-ph}
+&nbsp;&nbsp;&nbsp;&nbsp;primaryClass={physics.soc-ph}<br/>
 }

@@ -1,8 +1,8 @@
 ---
 title: "Optimal transport for multi-commodity routing on networks"
-authors: "Alessandro Lonardi, Enrico Facca, Mario Putti and Caterina De Bacco"
 collection: publications
 permalink: /publication/lonardi2020optimal
+authors: "Alessandro Lonardi, Enrico Facca, Mario Putti and Caterina De Bacco"
 date: 27-10-2020
 ---
 

@@ -21,21 +21,19 @@ We present a model for finding optimal multi-commodity flows on networks based o
 
 <b>BibTeX:</b>
 
-const span = document.querySelector("span");
-
-span.onclick = function() {
+function copyToClipboard(element) {
+  var $temp = $("<input>");
+  $("body").append($temp);
+  $temp.val($(element).text()).select();
   document.execCommand("copy");
+  $temp.remove();
 }
-
-span.addEventListener("copy", function(event) {
-  event.preventDefault();
-  if (event.clipboardData) {
-    event.clipboardData.setData("text/plain", span.textContent);
-    console.log(event.clipboardData.getData("text"))
-  }
-});
-
-<span>text</span>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<p id="p1">P1: I am paragraph 1</p>
+<p id="p2">P2: I am a second paragraph</p>
+<button onclick="copyToClipboard('#p1')">Copy P1</button>
+<button onclick="copyToClipboard('#p2')">Copy P2</button>
+<br/><br/><input type="text" placeholder="Paste here for test" />
 
 @misc{lonardi2020optimal,<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;title={Optimal transport for multi-commodity routing on networks},<br/>

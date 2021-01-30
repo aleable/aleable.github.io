@@ -38,7 +38,7 @@
       {{ post.authors }} <br />
       {{ post.paperurl }} /
 
-      <input type=text id='me' value='{{ post.bibtex }}' style='display:none;'>
+      <input type=text id='me' value={{ post.bibtex }} style='display:none;'>
       <button onclick='
       $("#me").show();
       var copyText = document.getElementById("me");

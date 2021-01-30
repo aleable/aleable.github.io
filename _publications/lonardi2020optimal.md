@@ -4,7 +4,8 @@ collection: publications
 permalink: /publication/lonardi2020optimal
 authors: "Alessandro Lonardi, Enrico Facca, Mario Putti and Caterina De Bacco"
 date: 27-10-2020
-excerpt: ''
+paperurl: <a href="https://arxiv.org/abs/2010.14377">arXiv</a> / <a href="https://github.com/aleable/McOpt">GitHub</a>
+excerpt: ' '
 ---
 
 ## Links

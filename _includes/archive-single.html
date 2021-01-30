@@ -36,9 +36,7 @@
 
     {% if post.authors %}
       {{ post.authors }} <br />
-      {{ post.paperurl }}
-
-
+      {{ post.paperurl }} /
 
       <meta name="viewport" content="width=device-width, initial-scale=1">
       <style>
@@ -82,12 +80,12 @@
       </style>
       <body>
 
-      <input type="text" value={{ post.bibtex }} id="myInput">
+      <field type="text" value={{ post.bibtex }} id="myInput">
 
       <div class="tooltip">
       <button onclick="myFunction()" onmouseout="outFunc()">
         <span class="tooltiptext" id="myTooltip">Copy to clipboard</span>
-        Copy text
+        BibTeX
         </button>
       </div>
 

@@ -41,7 +41,7 @@ Research Intern at Max Planck Institute for Intelligent Systems: Physics for Inf
 
 * <b>Basic level:</b> ROOT, LTspice
 * <b>Good level:</b> C++ (Boost, LEMON: Modelling and Optimization in Networks, ...), Mathematica, Microsoft Office Suit, Linux: Arch based distributions, Git, HTML
-* <b>Advanced level:</b> Python (Numpy, Pandas, SciPy, NetworkX, Matplotlib, ...), Linux: Debian based distributions, macOS, LATEX, MATLAB
+* <b>Advanced level:</b> Python (Numpy, Pandas, SciPy, NetworkX, Matplotlib, ...), Linux: Debian based distributions, macOS, LaTeX, MATLAB
 
 <h2>Extracurricular activities</h2>
 

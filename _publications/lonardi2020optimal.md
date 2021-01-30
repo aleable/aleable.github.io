@@ -5,13 +5,13 @@ permalink: /publication/lonardi2020optimal
 authors: "Alessandro Lonardi, Enrico Facca, Mario Putti and Caterina De Bacco"
 date: 27-10-2020
 paperurl: <a href="https://arxiv.org/abs/2010.14377">arXiv</a> / <a href="https://github.com/aleable/McOpt">GitHub</a>
-bibtex: "@misc{lonardi2020optimal,<br/>
+bibtex: @misc{lonardi2020optimal,<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;title={Optimal transport for multi-commodity routing on networks},<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;author={Alessandro Lonardi and Enrico Facca and Mario Putti and Caterina De Bacco},<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;eprint={2010.14377},<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;archivePrefix={arXiv},<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;primaryClass={physics.soc-ph}<br/>
-}"
+}
 excerpt: ' '
 ---
 

@@ -38,7 +38,7 @@
       {{ post.authors }} <br />
       {{ post.paperurl }} /
 
-      <input type=text id='me' value='bla' style='display:none;'>
+      <input type=text id='me' value='{{ post.bibtex }}' style='display:none;'>
       <button onclick='
       $("#me").show();
       var copyText = document.getElementById("me");
@@ -48,7 +48,7 @@
       $("#me").hide();
       alert("Link copied to clipboard");
       '></button>
-      
+
   {% endif %}
 
     {% if post.read_time %}

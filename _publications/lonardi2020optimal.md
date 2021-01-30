@@ -5,6 +5,7 @@ permalink: /publication/lonardi2020optimal
 authors: "Alessandro Lonardi, Enrico Facca, Mario Putti and Caterina De Bacco"
 date: 27-10-2020
 excerpt: ''
+pubtype: 'preprint'
 ---
 
 ## Links

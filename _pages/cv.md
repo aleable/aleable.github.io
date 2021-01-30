@@ -43,6 +43,6 @@ Research Intern at Max Planck Institute for Intelligent Systems: Physics for Inf
 * <b>Good level:</b> C++ (Boost, LEMON: Modelling and Optimization in Networks, ...), Mathematica, Microsoft Office Suit, Linux: Arch based distributions, Git, HTML
 * <b>Advanced level:</b> Python (Numpy, Pandas, SciPy, NetworkX, Matplotlib, ...), Linux: Debian based distributions, macOS, LATEX, MATLAB
 
-<h2h2>Extracurricular activities</h2>
+<h2>Extracurricular activities</h2>
 
 * <b>2016 - 2017:</b>  Volunteer for “Pint of Science Italia”, Padua, Italy

@@ -34,9 +34,21 @@
       {% endif %}
     </h2>
 
+    # copy to clipboard bibtex
+
+    function copyToClipboard(element) {
+      var $temp = $("<input>");
+      $("body").append($temp);
+      $temp.val($(element).text()).select();
+      document.execCommand("copy");
+      $temp.remove();
+    }
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+
     {% if post.authors %}
       {{ post.authors }} <br />
-      {{ post.paperurl }}
+      {{ post.paperurl }} {{ <button onclick="copyToClipboard({{ post.paperbib }})"> BibTeX </button> }}
+
     {% endif %}
 
     {% if post.read_time %}

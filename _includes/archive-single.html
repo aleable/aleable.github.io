@@ -38,16 +38,16 @@
       {{ post.authors }} <br />
       {{ post.paperurl }} /
 
-      function copyFunc() {
-          var copyText = document.getElementById("copyInp");
-          copyText.select();
-          document.execCommand("copy"); //this function copies the text of the input with ID "copyInp"
-      }
-
-      <input type="text" value={{ post.bibtex }} id="copyInp" style="position:absolute;left:-1000px;top:-1000px;">
-        <a onclick="copyFunc()" style="cursor:cell;">
-          BibTeX
-      </a>
+      <input type=text id='me' value='bla' style='display:none;'>
+  <button onclick='
+  $("#me").show();
+  var copyText = document.getElementById("me");
+  copyText.select();
+  copyText.setSelectionRange(0, 99999);
+  document.execCommand("copy");
+  $("#me").hide();
+  alert("Link copied to clipboard");
+  '></button> 
 
     {% endif %}
 

@@ -11,8 +11,8 @@ redirect_from:
 
 Clicking <a href="../files/CV.pdf">here</a> you can download a pdf version of my curriculum vitae.
 
-Education
-======
+<h2>Education</h2>
+
 * <b>Sep 1, 2020 - present</b><br />
 Ph.D. Student at Max Planck Institute for Intelligent Systems: Physics for Inference and Optimization group, Tübingen, Germany
   * <b>Supervisor:</b> Dr. <a href="https://cdebacco.com/">Caterina De Bacco</a>

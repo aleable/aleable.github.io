@@ -2,7 +2,7 @@
   <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 </head>
 
-![](./files/alessandro.jpeg) <br/>
+![](./files/alessandro.jpeg)<br/>
 
 [MPI IS](https://is.mpg.de/person/alonardi) • 
 [Email](mailto:alessandro.lonardi@tuebingen.mpg.de) • 

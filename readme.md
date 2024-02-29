@@ -1,7 +1,6 @@
 ![](./files/alessandro.jpeg)<br/>
 
-<a href="../files/CV_ACTIVITIES_PUBLICATIONS.pdf" download><b>CV</b></a> (including a list of publications and other academic services)
-
+<a href="../files/CV_ACTIVITIES_PUBLICATIONS.pdf" download><b>CV</b></a> (including a list of publications and other academic services) <br/>
 [MPI IS](https://is.mpg.de/person/alonardi) • 
 [Email](mailto:alessandro.lonardi@tuebingen.mpg.de) • 
 [GitHub](https://github.com/aleable) • 
@@ -37,7 +36,7 @@ My current research mainly focuses on developing mathematical models for optimiz
   <summary><b>Older news</b></summary>
 <ul>
 
-<li><b>May 6, 2022:</b> Our work <a href="https://www.nature.com/articles/s41598-022-11348-9">Multicommodity routing optimization for engineering networks</a> is in Scientific Reports!</li>
+<br/><li><b>May 6, 2022:</b> Our work <a href="https://www.nature.com/articles/s41598-022-11348-9">Multicommodity routing optimization for engineering networks</a> is in Scientific Reports!</li>
 <li><b>May 4, 2022:</b> A new preprint is online: Immiscible Color Flows in Optimal Transport Networks for Image Classification.</li>
 <li><b>Dec 21, 2021:</b> A new preprint is online: Infrastructure adaptation and emergence of loops in network routing with time-dependent loads.</li>
 <li><b>Oct 13, 2021 - Feb 11, 2022:</b> I am a teaching assistant for the course of <a href="https://github.com/APMLA-2021/APMLA-WS_21-22_material">Advanced Probabilistic Machine Learning and Applications (2022)</a>, at <a href="https://uni-tuebingen.de/universitaet/">University of Tübingen</a>.</li>
@@ -53,3 +52,6 @@ My current research mainly focuses on developing mathematical models for optimiz
 <p>
 <script src="https://climateclock.world/widget-v2.js" async></script>
 <climate-clock/>
+
+Powered by [Foam](https://github.com/foambubble).
+Favicon by [Miruna Georgiana](https://www.artstation.com/mirunageorgiana).

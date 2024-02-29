@@ -1,3 +1,7 @@
+<head>
+  <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+</head>
+
 ![](./files/alessandro.jpeg) <br/>
 
 [MPI IS](https://is.mpg.de/person/alonardi) • 

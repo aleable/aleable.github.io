@@ -1,4 +1,4 @@
-# Bio
+# Welcome
 
 ![](./files/alessandro.jpeg)<br/>
 
@@ -49,7 +49,7 @@ My current research mainly focuses on developing mathematical models for optimiz
 </ul>
 </details>
 
-<br/>
+
 <p>
 <script src="https://climateclock.world/widget-v2.js" async></script>
 <climate-clock/>

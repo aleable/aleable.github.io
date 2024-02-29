@@ -38,7 +38,7 @@ My current research mainly focuses on developing mathematical models for optimiz
   <summary><b>Older news</b></summary>
 <ul>
 
-<li><b>May 6, 2022:</b> Our work <a href="https://www.nature.com/articles/s41598-022-11348-9">Multicommodity routing optimization for engineering networks</a> is in Scientific Reports!</li>
+<br/><li><b>May 6, 2022:</b> Our work <a href="https://www.nature.com/articles/s41598-022-11348-9">Multicommodity routing optimization for engineering networks</a> is in Scientific Reports!</li>
 <li><b>May 4, 2022:</b> A new preprint is online: Immiscible Color Flows in Optimal Transport Networks for Image Classification.</li>
 <li><b>Dec 21, 2021:</b> A new preprint is online: Infrastructure adaptation and emergence of loops in network routing with time-dependent loads.</li>
 <li><b>Oct 13, 2021 - Feb 11, 2022:</b> I am a teaching assistant for the course of <a href="https://github.com/APMLA-2021/APMLA-WS_21-22_material">Advanced Probabilistic Machine Learning and Applications (2022)</a>, at <a href="https://uni-tuebingen.de/universitaet/">University of Tübingen</a>.</li>

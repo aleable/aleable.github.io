@@ -41,7 +41,6 @@ My current research mainly focuses on developing mathematical models for optimiz
 <h1></h1>
 
 <script src="https://climateclock.world/widget-v2.js" async></script>
-<climate-clock />
 
 <h1></h1>
 

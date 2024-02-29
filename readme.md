@@ -2,9 +2,9 @@
   <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 </head>
 
-<h1>Home</h1>
-
 ![](./files/alessandro.jpeg)<br/>
+
+<a href="../files/CV_ACTIVITIES_PUBLICATIONS.pdf" download><b>CV</b></a> (including a list of publications and other academic services)<br>
 
 [MPI IS](https://is.mpg.de/person/alonardi) • 
 [Email](mailto:alessandro.lonardi@tuebingen.mpg.de) • 
@@ -22,10 +22,6 @@ I am Alessandro Lonardi, a PhD student at the <a href="https://is.mpg.de/">Max P
 My PhD is supported by the <a href="https://imprs.is.mpg.de">International Max Planck Research School for Intelligent Systems</a> (IMPRS-IS), which is part of the <a href="https://cyber-valley.de/en">Cyber Valley</a> initiative.
 
 Originally I am from the small village of <a href="https://goo.gl/maps/LnPtj2FqxjT1W1pg6">San Floriano</a>, located in the beautiful <a href="https://it.wikipedia.org/wiki/Valpolicella_classica">Valpolicella classica</a> (historical production area of Valpolicella wines), close to <a href="https://en.wikipedia.org/wiki/Verona">Verona</a>, Italy.
-
-<div style="background-color: #deecff ; padding: 10px; border: 1px #a3c7f7;">
-  Clicking <a href="../files/CV_ACTIVITIES_PUBLICATIONS.pdf" download><b>here</b></a> you can download a PDF version of my curriculum vitae, together with a list of publications and other academic services.<br />
-</div>
 
 <h1><span style="color:#169B3C">Research</span></h1>
 
@@ -54,7 +50,6 @@ My current research mainly focuses on developing mathematical models for optimiz
 <li><b>Apr 19, 2021 - July 31, 2021:</b> I was a teaching assistant for the course of Advanced Probabilistic Machine Learning and Applications (2021), at <a href="https://uni-tuebingen.de/universitaet/">University of Tübingen</a>.</li>
 <li><b>Feb 12, 2021:</b> I joined the <a href="https://imprs.is.mpg.de">International Max Planck Research School for Intelligent Systems</a>!</li>
 </ul>
-
 </details>
 
 <h1></h1>
@@ -62,7 +57,3 @@ My current research mainly focuses on developing mathematical models for optimiz
 <p>
 <script src="https://climateclock.world/widget-v2.js" async></script>
 <climate-clock/>
-
-<h1></h1>
-
-Powered by [Foam](https://github.com/foambubble).

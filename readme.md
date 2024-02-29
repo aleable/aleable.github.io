@@ -1,3 +1,16 @@
+![](./files/alessandro.jpef) <br/>
+
+[MPI IS](https://is.mpg.de/person/alonardi)<br/>
+[Email](mailto:commute@tuebingen.mpg.de)<br/>
+[GitHub](https://github.com/aleable)<br/>
+[LinkedIn](https://www.linkedin.com/in/alonardi/)<br/>
+[Mastodon](https://datasci.social/@alonardi)<br/>
+[ORCID](https://orcid.org/0000-0003-4866-8088)<br/>
+[arXiv](https://arxiv.org/search/?query=Alessandro+Lonardi&searchtype=author&abstracts=show&order=-announced_date_first&size=50)<br/>
+[Google Scholar](https://scholar.google.com/citations?user=KPLxOj0AAAAJ&hl=en&oi=ao)<br/>
+[Web of Science](https://www.webofscience.com/wos/author/record/GYA-1831-2022)<br/>
+
+
 I am Alessandro Lonardi, a PhD student at the <a href="https://is.mpg.de/">Max Planck Institute for Intelligent Systems</a> (Tübingen, Germany), working under the supervision of Dr. <a href="https://cdebacco.com/">Caterina De Bacco</a> in the <a href="https://is.mpg.de/employees?_=1598796063852&action=index&controller=employees&departments=pio&query=&utf8=\%E2\%9C\%93">Physics for Inference and Optimization group</a>. Previous to that, I was a Master's student in Mathematical Engineering at <a href="https://www.unipd.it/en/">University of Padova</a> (Padua, Italy), where I also obtained my Bachelor's degree in Physics. <br/>
 
 My PhD is supported by the <a href="https://imprs.is.mpg.de">International Max Planck Research School for Intelligent Systems</a> (IMPRS-IS), which is part of the <a href="https://cyber-valley.de/en">Cyber Valley</a> initiative.

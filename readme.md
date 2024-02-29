@@ -1,3 +1,5 @@
+# Home
+
 ![](./files/alessandro.jpeg)<br/>
 
 <a href="../files/CV_ACTIVITIES_PUBLICATIONS.pdf" download><b>CV</b></a> (including a list of publications and other academic services) <br/>
@@ -47,11 +49,10 @@ My current research mainly focuses on developing mathematical models for optimiz
 </ul>
 </details>
 
-<h1></h1>
-
 <p>
 <script src="https://climateclock.world/widget-v2.js" async></script>
 <climate-clock/>
+</p>
 
 Powered by [Foam](https://github.com/foambubble).
 Favicon by [Miruna Georgiana](https://www.artstation.com/mirunageorgiana).

@@ -38,10 +38,9 @@ My current research mainly focuses on developing mathematical models for optimiz
 
 </details>
 
-<h1></h1>
-
+<p>
 <script src="https://climateclock.world/widget-v2.js" async></script>
-
-<h1></h1>
+<climate-clock/>
+</p>
 
 Powered by [Foam](https://github.com/foambubble).

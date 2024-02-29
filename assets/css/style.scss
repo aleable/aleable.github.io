@@ -30,24 +30,10 @@ input.task-list-item-checkbox {
 
 // Set standard spacing between text
 p, ul, ol, blockquote {
-  margin-bottom: 1em; // Adjust this value as needed
+  margin-bottom: 0.5em; // Adjust this value as needed
 }
 
 // Set spacing between headers and following content
 h1, h2, h3, h4, h5, h6 {
   margin-bottom: 0.5em; // Adjust this value as needed
 }
-
-/*h1,
-h2,
-h3,
-h4,
-h5,
-blockquote {
-  font-family: "sans serif", "sans serif", "sans serif", "sans serif", "sans serif";
-}
-
-blockquote {
-  font-family: Constantia, "Lucida Bright", Lucidabright, "Lucida Serif", Lucida,
-    "DejaVu Serif", "Bitstream Vera Serif", "Liberation Serif", Georgia, serif;
-}*/

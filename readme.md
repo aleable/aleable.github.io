@@ -1,10 +1,6 @@
-<head>
-  <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-</head>
-
 ![](./files/alessandro.jpeg)<br/>
 
-<a href="../files/CV_ACTIVITIES_PUBLICATIONS.pdf" download><b>CV</b></a> (including a list of publications and other academic services)<br>
+<a href="../files/CV_ACTIVITIES_PUBLICATIONS.pdf" download><b>CV</b></a> (including a list of publications and other academic services)
 
 [MPI IS](https://is.mpg.de/person/alonardi) • 
 [Email](mailto:alessandro.lonardi@tuebingen.mpg.de) • 

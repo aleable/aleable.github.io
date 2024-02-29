@@ -22,6 +22,22 @@ input.task-list-item-checkbox {
   margin-right: 4px;
 }
 
+// Reset margins and paddings for all elements
+* {
+  margin: 0;
+  padding: 0;
+}
+
+// Set standard spacing between text
+p, ul, ol, blockquote {
+  margin-bottom: 1em; // Adjust this value as needed
+}
+
+// Set spacing between headers and following content
+h1, h2, h3, h4, h5, h6 {
+  margin-bottom: 0.5em; // Adjust this value as needed
+}
+
 /*h1,
 h2,
 h3,

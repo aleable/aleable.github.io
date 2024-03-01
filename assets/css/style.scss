@@ -27,3 +27,77 @@ input.task-list-item-checkbox {
   margin: 0;
   padding: 0;
 }
+
+// Variables
+$primary-color: #1A1A1A;
+$secondary-colors: (
+  midnight-blue: #2C3E50,
+  alizarin-red: #E74C3C,
+  dark-sky-blue: #3498DB,
+  dark-emerald-green: #27AE60,
+  deep-purple: #8E44AD
+);
+
+// General Styles
+body {
+  background-color: $primary-color;
+  color: #fff; // Text color
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+// Header Styles
+header {
+  background-color: $secondary-colors[midnight-blue];
+  padding: 20px;
+}
+
+.logo {
+  font-size: 24px;
+  color: #fff;
+}
+
+// Navigation Styles
+nav {
+  ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+
+    li {
+      margin-right: 20px;
+
+      a {
+        text-decoration: none;
+        color: #fff;
+
+        &:hover {
+          text-decoration: underline;
+        }
+      }
+    }
+  }
+}
+
+// Main Content Styles
+main {
+  padding: 20px;
+}
+
+section {
+  margin-bottom: 40px;
+}
+
+// Footer Styles
+footer {
+  background-color: $secondary-colors[midnight-blue];
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+}

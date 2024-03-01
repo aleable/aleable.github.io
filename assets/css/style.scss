@@ -29,12 +29,12 @@ input.task-list-item-checkbox {
 }
 
 // Variables
-$color1: #3b3b3b;
+$color1: #444444;
 $color2: #85ceff;
 
 body {
   background-color: $color1;
-  color: #fff; // Text color
+  color: #f5f5f5; // off-white
   font-family: Arial, sans-serif;
 }
 
@@ -42,9 +42,5 @@ body {
 a {
   color: $color2; // Set the default link color
   text-decoration: none; // Remove underline
-  transition: color 0.3s ease; // Smooth color transition on hover
-
-  &:hover {
-    color: darken(#55bbff, 10%); // Darken link color on hover
-  }
+  transition: color 0.1s ease; // Smooth color transition on hover
 }

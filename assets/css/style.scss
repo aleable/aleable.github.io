@@ -1,8 +1,31 @@
+---
+---
+
 @import "{{ site.theme }}";
 
 .markdown-body {
   max-width: 850px;
   font-size: 16px;
+}
+
+.markdown-body p {
+  font-size: 16px;
+  line-height: 1.9em;
+  margin-bottom: 0.8em;
+}
+
+.markdown-body li {
+  line-height: 1.9em;
+}
+
+input.task-list-item-checkbox {
+  margin-right: 4px;
+}
+
+// Reset margins and paddings for all elements
+* {
+  margin: 0;
+  padding: 0;
 }
 
 // Variables

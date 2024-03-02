@@ -1,6 +1,6 @@
 # Welcome
 
-![](./files/alessandro.jpeg)<br/>
+<img src="./files/alessandro.jpg" alt="profile" width="30%"/>
 
 <a href="../files/CV_ACTIVITIES_PUBLICATIONS.pdf" download><b>CV</b></a> (including a list of publications and other academic services) <br/>
 [MPI IS](https://is.mpg.de/person/alonardi) • 

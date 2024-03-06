@@ -16,7 +16,7 @@
   }
 
   br.less-spacing {
-    margin-bottom: -0.2em; /* Adjust as needed */
+    margin-bottom: -0.7em; /* Adjust as needed */
   }
 </style>
 
@@ -51,7 +51,7 @@ Originally I am from the small village of <a href="https://goo.gl/maps/LnPtj2Fqx
 
 <h1>Research</h1>
 
-My current research mainly focuses on developing mathematical models for optimization problems on networks. More in detail, I study dynamical systems to explain how networks can optimally adapt their structure to accommodate multiple agents interacting along their edges. I am also interested in message-passing algorithms for statistical inference. The applications of my work are primarily in urban networks and machine learning but potentially span several other disciplines, such as climate science and biology. Broadly speaking, I like to address data-rich problems where mechanistic models and inferential predictions mutually benefit from each other.
+My research focuses on developing mathematical models and efficient algorithms for modeling complex systems. In particular, I study dynamical systems governing optimal adaptive network design [[1]](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.131.267401), [[2]](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.107.024302), [[3]](https://www.nature.com/articles/s41598-022-11348-9). I am also interested in community detection and statistical inference methods, such as message-passing algorithms [[4]](https://arxiv.org/abs/2312.00708). My work's applications are strongly interdisciplinary, spanning urban sciences, machine learning, social sciences, and biology. Broadly, I like to address data-rich problems where mechanistic models and inferential predictions mutually benefit from each other to describe complex systems.
 
 <h1>News</h1>
 

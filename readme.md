@@ -1,13 +1,29 @@
 # Welcome
 
-<img style="float: left;" src="./files/alessandro.jpg" alt="profile" width="30%"/>
-<div style="float: right">
-PhD student<br/>
-Max Planck Institute for Intelligent Systems<br/>
-Room S2.018<br/>
-Max-Planck-Ring 4, 72076, Tübingen, Germany
+<style>
+  .container {
+    display: flex;
+    align-items: center; /* Vertically center-align items */
+    justify-content: left; /* Horizontally center-align items */
+    margin-top: 20px; /* Add some space from the top */
+  }
+
+  .content {
+    margin-left: 20px; /* Add some space between image and text */
+  }
+</style>
+</head>
+<body>
+
+<div class="container">
+  <img style="float: left;" src="./files/alessandro.jpg" alt="profile" width="30%"/>
+  <div class="content">
+    <p>PhD student<br/>
+    Max Planck Institute for Intelligent Systems<br/>
+    Room S2.018<br/>
+    Max-Planck-Ring 4, 72076, Tübingen, Germany</p>
+  </div>
 </div>
-<div style="clear: both;"></div> <!-- Add this line to clear the floating elements -->
 
 <a href="../files/CV_ACTIVITIES_PUBLICATIONS.pdf" download><b>CV</b></a> (including a list of publications and other academic services) <br/>
 [MPI IS](https://is.mpg.de/person/alonardi) • 
@@ -69,9 +85,9 @@ In reverse chronological order, asterisks denote equal contribution.
 | Multicommodity routing optimization for engineering networks | Alessandro Lonardi, Mario Putti, Caterina De Bacco | [Scientific Reports 12, 7474](https://www.nature.com/articles/s41598-022-11348-9) | [arXiv](https://arxiv.org/abs/2110.06171) | [GitHub](https://github.com/aleable/McOpt) | 2022 | — | Journal Paper |
 | Optimal Transport in Multilayer Networks for Traffic Flow Optimization | Abdullahi Adinoyi Ibrahim, Alessandro Lonardi, Caterina De Bacco | [Algorithms, 14(7), 189](https://www.mdpi.com/1999-4893/14/7/189) | [arXiv](https://arxiv.org/abs/2106.07202) | [GitHub](https://github.com/cdebacco/MultiOT) | 2021 | — | Journal Paper |
 | Designing optimal networks for multicommodity transport problem | Alessandro Lonardi, Enrico Facca, Mario Putti, Caterina De Bacco | [Physical Review Research 3, 043010](https://link.aps.org/doi/10.1103/PhysRevResearch.3.043010) | [arXiv](https://arxiv.org/abs/2010.14377) | [GitHub](https://github.com/aleable/McOpt) | 2021 | — | Journal Paper |
-<br/>
 
 <p>
+<br/>
 <script src="https://climateclock.world/widget-v2.js" async></script>
 <climate-clock/>
 </p>

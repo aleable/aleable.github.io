@@ -1,9 +1,8 @@
 # Welcome
 
-<div style="float: center">
 <img style="float: left;" src="./files/alessandro.jpg" alt="profile" width="30%"/>
 <div style="float: right">***</div>
-</div>
+<div style="clear: both;"></div> <!-- Add this line to clear the floating elements -->
 
 <h1>Bio</h1>
 
@@ -27,20 +26,6 @@ Originally I am from the small village of <a href="https://goo.gl/maps/LnPtj2Fqx
 <h1>Research</h1>
 
 My current research mainly focuses on developing mathematical models for optimization problems on networks. More in detail, I study dynamical systems to explain how networks can optimally adapt their structure to accommodate multiple agents interacting along their edges. I am also interested in message-passing algorithms for statistical inference. The applications of my work are primarily in urban networks and machine learning but potentially span several other disciplines, such as climate science and biology. Broadly speaking, I like to address data-rich problems where mechanistic models and inferential predictions mutually benefit from each other.
-
-<h1>Publications</h1>
-
-In reverse chronological order, asterisks denote equal contribution.
-
-| Title | Authors | Publication | Preprint | Code | Year | Misc | Type |
-|---|---|---|---|---|---|---|---|
-| Message-Passing on Hypergraphs: Detectability, Phase Transitions, and Higher-Order Information | Nicolò Ruggeri*, Alessandro Lonardi*, Caterina De Bacco | Journal of Statistical Mechanics: Theory and Experiment | [arXiv](https://arxiv.org/abs/2312.00708) | [GitHub](https://github.com/nickruggeri/hypergraph-message-passing) | 2024 | [CO₂ compensation](https://www.treedom.net/en/user/nicolo-ruggeri-7568/trees/ZMG-8DNK) | Journal Paper |
-| Bilevel Optimization for Traffic Mitigation in Optimal Transport Networks | Alessandro Lonardi, Caterina De Bacco | [Physical Review Letters 131, 267401](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.131.267401) | [arXiv](https://arxiv.org/abs/2306.16246) | [GitHub](https://github.com/aleable/BROT) | 2023 | — | Journal Paper |
-| Immiscible Color Flows in Optimal Transport Networks for Image Classification | Alessandro Lonardi*, Diego Baptista*, Caterina De Bacco | [Frontiers in Physics 11:1089114](https://www.frontiersin.org/articles/10.3389/fphy.2023.1089114/abstract) | [arXiv](https://arxiv.org/abs/2205.02938) | [GitHub](https://github.com/aleable/MODI) | 2023 | [Poster](https://github.com/aleable/MODI/blob/main/misc/POSTER_MODI.pdf), [CO₂ compensation](https://www.treedom.net/en/page/register?id=49Z-KEWX) | Journal Paper |
-| Infrastructure adaptation and emergence of loops in network routing with time-dependent loads | Alessandro Lonardi, Enrico Facca, Mario Putti, Caterina De Bacco | [Physical Review E 107, 024302](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.107.024302) | [arXiv](https://arxiv.org/abs/2112.10620) | [GitHub](https://github.com/aleable/N-STARK) | 2023 | — | Journal Paper |
-| Multicommodity routing optimization for engineering networks | Alessandro Lonardi, Mario Putti, Caterina De Bacco | [Scientific Reports 12, 7474](https://www.nature.com/articles/s41598-022-11348-9) | [arXiv](https://arxiv.org/abs/2110.06171) | [GitHub](https://github.com/aleable/McOpt) | 2022 | — | Journal Paper |
-| Optimal Transport in Multilayer Networks for Traffic Flow Optimization | Abdullahi Adinoyi Ibrahim, Alessandro Lonardi, Caterina De Bacco | [Algorithms, 14(7), 189](https://www.mdpi.com/1999-4893/14/7/189) | [arXiv](https://arxiv.org/abs/2106.07202) | [GitHub](https://github.com/cdebacco/MultiOT) | 2021 | — | Journal Paper |
-| Designing optimal networks for multicommodity transport problem | Alessandro Lonardi, Enrico Facca, Mario Putti, Caterina De Bacco | [Physical Review Research 3, 043010](https://link.aps.org/doi/10.1103/PhysRevResearch.3.043010) | [arXiv](https://arxiv.org/abs/2010.14377) | [GitHub](https://github.com/aleable/McOpt) | 2021 | — | Journal Paper |
 
 <h1>News</h1>
 
@@ -68,7 +53,20 @@ In reverse chronological order, asterisks denote equal contribution.
 </ul>
 </details>
 
-<br/>
+<h1>Publications</h1>
+
+In reverse chronological order, asterisks denote equal contribution.
+
+| Title | Authors | Publication | Preprint | Code | Year | Misc | Type |
+|---|---|---|---|---|---|---|---|
+| Message-Passing on Hypergraphs: Detectability, Phase Transitions, and Higher-Order Information | Nicolò Ruggeri*, Alessandro Lonardi*, Caterina De Bacco | Journal of Statistical Mechanics: Theory and Experiment | [arXiv](https://arxiv.org/abs/2312.00708) | [GitHub](https://github.com/nickruggeri/hypergraph-message-passing) | 2024 | [CO₂ compensation](https://www.treedom.net/en/user/nicolo-ruggeri-7568/trees/ZMG-8DNK) | Journal Paper |
+| Bilevel Optimization for Traffic Mitigation in Optimal Transport Networks | Alessandro Lonardi, Caterina De Bacco | [Physical Review Letters 131, 267401](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.131.267401) | [arXiv](https://arxiv.org/abs/2306.16246) | [GitHub](https://github.com/aleable/BROT) | 2023 | — | Journal Paper |
+| Immiscible Color Flows in Optimal Transport Networks for Image Classification | Alessandro Lonardi*, Diego Baptista*, Caterina De Bacco | [Frontiers in Physics 11:1089114](https://www.frontiersin.org/articles/10.3389/fphy.2023.1089114/abstract) | [arXiv](https://arxiv.org/abs/2205.02938) | [GitHub](https://github.com/aleable/MODI) | 2023 | [Poster](https://github.com/aleable/MODI/blob/main/misc/POSTER_MODI.pdf), [CO₂ compensation](https://www.treedom.net/en/page/register?id=49Z-KEWX) | Journal Paper |
+| Infrastructure adaptation and emergence of loops in network routing with time-dependent loads | Alessandro Lonardi, Enrico Facca, Mario Putti, Caterina De Bacco | [Physical Review E 107, 024302](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.107.024302) | [arXiv](https://arxiv.org/abs/2112.10620) | [GitHub](https://github.com/aleable/N-STARK) | 2023 | — | Journal Paper |
+| Multicommodity routing optimization for engineering networks | Alessandro Lonardi, Mario Putti, Caterina De Bacco | [Scientific Reports 12, 7474](https://www.nature.com/articles/s41598-022-11348-9) | [arXiv](https://arxiv.org/abs/2110.06171) | [GitHub](https://github.com/aleable/McOpt) | 2022 | — | Journal Paper |
+| Optimal Transport in Multilayer Networks for Traffic Flow Optimization | Abdullahi Adinoyi Ibrahim, Alessandro Lonardi, Caterina De Bacco | [Algorithms, 14(7), 189](https://www.mdpi.com/1999-4893/14/7/189) | [arXiv](https://arxiv.org/abs/2106.07202) | [GitHub](https://github.com/cdebacco/MultiOT) | 2021 | — | Journal Paper |
+| Designing optimal networks for multicommodity transport problem | Alessandro Lonardi, Enrico Facca, Mario Putti, Caterina De Bacco | [Physical Review Research 3, 043010](https://link.aps.org/doi/10.1103/PhysRevResearch.3.043010) | [arXiv](https://arxiv.org/abs/2010.14377) | [GitHub](https://github.com/aleable/McOpt) | 2021 | — | Journal Paper |
+
 <p>
 <script src="https://climateclock.world/widget-v2.js" async></script>
 <climate-clock/>

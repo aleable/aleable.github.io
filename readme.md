@@ -24,6 +24,35 @@ Originally I am from the small village of <a href="https://goo.gl/maps/LnPtj2Fqx
 
 My current research mainly focuses on developing mathematical models for optimization problems on networks. More in detail, I study dynamical systems to explain how networks can optimally adapt their structure to accommodate multiple agents interacting along their edges. I am also interested in message-passing algorithms for statistical inference. The applications of my work are primarily in urban networks and machine learning but potentially span several other disciplines, such as climate science and biology. Broadly speaking, I like to address data-rich problems where mechanistic models and inferential predictions mutually benefit from each other.
 
+<h1>Publications</h1>
+
+<table style="background-color: #202020; color: white;">
+  <thead>
+    <tr>
+      <th>Title</th>
+      <th>Authors</th>
+      <th>Publication</th>
+      <th>Preprint</th>
+      <th>Code</th>
+      <th>Year</th>
+      <th>Misc</th>
+      <th>Status</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Optimal Transport in Multilayer Networks for Traffic Flow Optimization</td>
+      <td>Abdullahi Adinoyi Ibrahim<br/>Alessandro Lonardi<br/>Caterina De Bacco</td>
+      <td><a href="https://www.mdpi.com/1999-4893/14/7/189">Algorithms, 14(7), 189</a></td>
+      <td><a href="https://arxiv.org/abs/2106.07202">arXiv</a></td>
+      <td><a href="https://github.com/cdebacco/MultiOT">GitHub</a></td>
+      <td>2021</td>
+      <td>—</td>
+      <td>Published</td>
+    </tr>
+  </tbody>
+</table>
+
 <h1>News</h1>
 
 * <b>Dec 26, 2023:</b> Our paper <a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.131.267401">Bilevel Optimization for Traffic Mitigation in Optimal Transport Networks</a> is in Physical Review Letters!
@@ -48,13 +77,6 @@ My current research mainly focuses on developing mathematical models for optimiz
 <li><b>Feb 12, 2021:</b> I joined the <a href="https://imprs.is.mpg.de">International Max Planck Research School for Intelligent Systems</a>!</li>
 </ul>
 </details>
-<br/>
-
-<h1>Publications</h1>
-
-| Title | Authors | Publication | Preprint | Code | Year | Misc | Status |
-|:---|:---|:---|:---|:---|:---|:---|:---|
-| Optimal Transport in Multilayer Networks for Traffic Flow Optimization | Abdullahi Adinoyi Ibrahim<br/>Alessandro Lonardi<br/>Caterina De Bacco | [Algorithms, 14(7), 189](https://www.mdpi.com/1999-4893/14/7/189) | [arXiv](https://arxiv.org/abs/2106.07202) | [GitHub](https://github.com/cdebacco/MultiOT) | 2021 | --- | Published |
 
 <br/>
 <p>

@@ -1,10 +1,15 @@
 # Welcome
 
 <img style="float: left;" src="./files/alessandro.jpg" alt="profile" width="30%"/>
-<div style="float: right">***</div>
+<div style="float: right">
+<ul>
+    <li><a href="#Welcome">Short bio</a></li>
+    <li><a href="#Research">Research</a>
+    <li><a href="#News">News</a></li>
+    <li><a href="#Publications">Publications</a></li>
+</ul>
+</div>
 <div style="clear: both;"></div> <!-- Add this line to clear the floating elements -->
-
-<h1>Bio</h1>
 
 <a href="../files/CV_ACTIVITIES_PUBLICATIONS.pdf" download><b>CV</b></a> (including a list of publications and other academic services) <br/>
 [MPI IS](https://is.mpg.de/person/alonardi) • 
@@ -17,7 +22,7 @@
 [Google Scholar](https://scholar.google.com/citations?user=KPLxOj0AAAAJ&hl=en&oi=ao) • 
 [Web of Science](https://www.webofscience.com/wos/author/record/GYA-1831-2022)
 
-I am Alessandro Lonardi, a PhD student at the <a href="https://is.mpg.de/">Max Planck Institute for Intelligent Systems</a> (Tübingen, Germany), working under the supervision of Dr. <a href="https://cdebacco.com/">Caterina De Bacco</a> in the <a href="https://is.mpg.de/employees?_=1598796063852&action=index&controller=employees&departments=pio&query=&utf8=\%E2\%9C\%93">Physics for Inference and Optimization group</a>. Previous to that, I was a Master's student in Mathematical Engineering at <a href="https://www.unipd.it/en/">University of Padova</a> (Padua, Italy), where I also obtained my Bachelor's degree in Physics. <br/>
+I am Alessandro Lonardi, a PhD student at the <a href="https://is.mpg.de/">Max Planck Institute for Intelligent Systems</a> (Tübingen, Germany), working under the supervision of Dr. <a href="https://cdebacco.com/">Caterina De Bacco</a> in the <a href="https://is.mpg.de/employees?_=1598796063852&action=index&controller=employees&departments=pio&query=&utf8=\%E2\%9C\%93">Physics for Inference and Optimization group</a>. Previous to that, I was a Master's student in Mathematical Engineering at <a href="https://www.unipd.it/en/">University of Padova</a> (Padua, Italy), where I also obtained my Bachelor's degree in Physics.<br/>
 
 My PhD is supported by the <a href="https://imprs.is.mpg.de">International Max Planck Research School for Intelligent Systems</a> (IMPRS-IS), which is part of the <a href="https://cyber-valley.de/en">Cyber Valley</a> initiative.
 
@@ -66,6 +71,7 @@ In reverse chronological order, asterisks denote equal contribution.
 | Multicommodity routing optimization for engineering networks | Alessandro Lonardi, Mario Putti, Caterina De Bacco | [Scientific Reports 12, 7474](https://www.nature.com/articles/s41598-022-11348-9) | [arXiv](https://arxiv.org/abs/2110.06171) | [GitHub](https://github.com/aleable/McOpt) | 2022 | — | Journal Paper |
 | Optimal Transport in Multilayer Networks for Traffic Flow Optimization | Abdullahi Adinoyi Ibrahim, Alessandro Lonardi, Caterina De Bacco | [Algorithms, 14(7), 189](https://www.mdpi.com/1999-4893/14/7/189) | [arXiv](https://arxiv.org/abs/2106.07202) | [GitHub](https://github.com/cdebacco/MultiOT) | 2021 | — | Journal Paper |
 | Designing optimal networks for multicommodity transport problem | Alessandro Lonardi, Enrico Facca, Mario Putti, Caterina De Bacco | [Physical Review Research 3, 043010](https://link.aps.org/doi/10.1103/PhysRevResearch.3.043010) | [arXiv](https://arxiv.org/abs/2010.14377) | [GitHub](https://github.com/aleable/McOpt) | 2021 | — | Journal Paper |
+<br/>
 
 <p>
 <script src="https://climateclock.world/widget-v2.js" async></script>

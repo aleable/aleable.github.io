@@ -11,21 +11,15 @@
 .markdown-body p {
   font-size: 16px;
   line-height: 1.9em;
-  margin-bottom: 0.8em;
+  margin-bottom: 0.1em;
 }
 
 .markdown-body li {
-  line-height: 1.9em;
+  line-height: 0.5em;
 }
 
 input.task-list-item-checkbox {
   margin-right: 4px;
-}
-
-// Reset margins and paddings for all elements
-* {
-  margin: 0;
-  padding: 0;
 }
 
 // Variables

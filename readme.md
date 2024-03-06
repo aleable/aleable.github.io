@@ -13,8 +13,11 @@
   }
   .no-bullet {
   list-style-type: none;
-}
+  }
 
+  br.less-spacing {
+    margin-bottom: 0.4em; /* Adjust as needed */
+  }
 </style>
 
 <div class="container">
@@ -83,7 +86,7 @@ In reverse chronological order, asterisks denote equal contribution.
 <b>Last publication</b>
 
 <ul class="no-bullet">
-  <li><strong>Message-Passing on Hypergraphs: Detectability, Phase Transitions, and Higher-Order Information</strong></li>
+  <li><strong>Message-Passing on Hypergraphs: Detectability, Phase Transitions, and Higher-Order Information</strong></li><br class="less-spacing">
     <ul class="no-bullet">
       <li>Authors: Nicolò Ruggeri*, Alessandro Lonardi*, Caterina De Bacco</li>
       <li>Venue: Journal of Statistical Mechanics: Theory and Experiment</li>
@@ -99,7 +102,7 @@ In reverse chronological order, asterisks denote equal contribution.
 <summary><b>All publications</b></summary>
 
 <br/><ul class="no-bullet">
-  <li><strong>Bilevel Optimization for Traffic Mitigation in Optimal Transport Networks</strong></li>
+  <li><strong>Bilevel Optimization for Traffic Mitigation in Optimal Transport Networks</strong></li><br class="less-spacing">
   <ul class="no-bullet">
   <li>Authors: Alessandro Lonardi, Caterina De Bacco</li>
   <li>Venue: <a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.131.267401">Physical Review Letters 131, 267401</a></li>
@@ -111,7 +114,7 @@ In reverse chronological order, asterisks denote equal contribution.
 </ul>
 
 <ul class="no-bullet">
-  <li><strong>Immiscible Color Flows in Optimal Transport Networks for Image Classification</strong>
+  <li><strong>Immiscible Color Flows in Optimal Transport Networks for Image Classification</strong><br class="less-spacing">
     <ul class="no-bullet">
       <li>Authors: Alessandro Lonardi*, Diego Baptista*, Caterina De Bacco</li>
       <li>Venue: <a href="https://www.frontiersin.org/articles/10.3389/fphy.2023.1089114/abstract">Frontiers in Physics 11:1089114</a></li>
@@ -125,7 +128,7 @@ In reverse chronological order, asterisks denote equal contribution.
 </ul>
 
 <ul class="no-bullet">
-  <li><strong>Infrastructure adaptation and emergence of loops in network routing with time-dependent loads</strong>
+  <li><strong>Infrastructure adaptation and emergence of loops in network routing with time-dependent loads</strong><br class="less-spacing">
     <ul class="no-bullet">
       <li>Authors: Alessandro Lonardi, Enrico Facca, Mario Putti, Caterina De Bacco</li>
       <li>Venue: <a href="https://journals.aps.org/pre/abstract/10.1103/PhysRevE.107.024302">Physical Review E 107, 024302</a></li>
@@ -138,7 +141,7 @@ In reverse chronological order, asterisks denote equal contribution.
 </ul>
 
 <ul class="no-bullet">
-  <li><strong>Multicommodity routing optimization for engineering networks</strong>
+  <li><strong>Multicommodity routing optimization for engineering networks</strong><br class="less-spacing">
     <ul class="no-bullet">
       <li>Authors: Alessandro Lonardi, Mario Putti, Caterina De Bacco</li>
       <li>Venue: <a href="https://www.nature.com/articles/s41598-022-11348-9">Scientific Reports 12, 7474</a></li>
@@ -151,7 +154,7 @@ In reverse chronological order, asterisks denote equal contribution.
 </ul>
 
 <ul class="no-bullet">
-  <li><strong>Optimal Transport in Multilayer Networks for Traffic Flow Optimization</strong>
+  <li><strong>Optimal Transport in Multilayer Networks for Traffic Flow Optimization</strong><br class="less-spacing">
     <ul class="no-bullet">
       <li>Authors: Abdullahi Adinoyi Ibrahim, Alessandro Lonardi, Caterina De Bacco</li>
       <li>Venue: <a href="https://www.mdpi.com/1999-4893/14/7/189">Algorithms, 14(7), 189</a></li>
@@ -164,7 +167,7 @@ In reverse chronological order, asterisks denote equal contribution.
 </ul>
 
 <ul class="no-bullet">
-  <li><strong>Designing optimal networks for multicommodity transport problem</strong>
+  <li><strong>Designing optimal networks for multicommodity transport problem</strong><br class="less-spacing">
     <ul class="no-bullet">
       <li>Authors: Alessandro Lonardi, Enrico Facca, Mario Putti, Caterina De Bacco</li>
       <li>Venue: <a href="https://link.aps.org/doi/10.1103/PhysRevResearch.3.043010">Physical Review Research 3, 043010</a></li>

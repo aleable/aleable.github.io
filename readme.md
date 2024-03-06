@@ -5,18 +5,18 @@
 <div style="float: right">***</div>
 </div>
 
-<div>
-  <a href="../files/CV_ACTIVITIES_PUBLICATIONS.pdf" download><b>CV</b></a> (including a list of publications and other academic services) <br/>
-  <a href="https://is.mpg.de/person/alonardi">MPI IS</a> • 
-  <a href="mailto:alessandro.lonardi@tuebingen.mpg.de">Email</a> • 
-  <a href="https://github.com/aleable">GitHub</a> • 
-  <a href="https://www.linkedin.com/in/alonardi/">LinkedIn</a> • 
-  <a href="https://datasci.social/@alonardi">Mastodon</a> • 
-  <a href="https://orcid.org/0000-0003-4866-8088">ORCID</a> • 
-  <a href="https://arxiv.org/search/?query=Alessandro+Lonardi&searchtype=author&abstracts=show&order=-announced_date_first&size=50">arXiv</a> • 
-  <a href="https://scholar.google.com/citations?user=KPLxOj0AAAAJ&hl=en&oi=ao">Google Scholar</a> • 
-  <a href="https://www.webofscience.com/wos/author/record/GYA-1831-2022">Web of Science</a>
-</div>
+<h1>Bio</h1>
+
+<a href="../files/CV_ACTIVITIES_PUBLICATIONS.pdf" download><b>CV</b></a> (including a list of publications and other academic services) <br/>
+[MPI IS](https://is.mpg.de/person/alonardi) • 
+[Email](mailto:alessandro.lonardi@tuebingen.mpg.de) • 
+[GitHub](https://github.com/aleable) • 
+[LinkedIn](https://www.linkedin.com/in/alonardi/) • 
+[Mastodon](https://datasci.social/@alonardi) • 
+[ORCID](https://orcid.org/0000-0003-4866-8088) • 
+[arXiv](https://arxiv.org/search/?query=Alessandro+Lonardi&searchtype=author&abstracts=show&order=-announced_date_first&size=50) • 
+[Google Scholar](https://scholar.google.com/citations?user=KPLxOj0AAAAJ&hl=en&oi=ao) • 
+[Web of Science](https://www.webofscience.com/wos/author/record/GYA-1831-2022)
 
 I am Alessandro Lonardi, a PhD student at the <a href="https://is.mpg.de/">Max Planck Institute for Intelligent Systems</a> (Tübingen, Germany), working under the supervision of Dr. <a href="https://cdebacco.com/">Caterina De Bacco</a> in the <a href="https://is.mpg.de/employees?_=1598796063852&action=index&controller=employees&departments=pio&query=&utf8=\%E2\%9C\%93">Physics for Inference and Optimization group</a>. Previous to that, I was a Master's student in Mathematical Engineering at <a href="https://www.unipd.it/en/">University of Padova</a> (Padua, Italy), where I also obtained my Bachelor's degree in Physics. <br/>
 

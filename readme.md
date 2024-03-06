@@ -27,6 +27,7 @@
   </div>
 </div>
 <div style="clear: both;"></div> <!-- Add this line to clear the floating elements -->
+<br/>
 
 <a href="../files/CV_ACTIVITIES_PUBLICATIONS.pdf" download><b>CV</b></a> (including a list of publications and other academic services) <br/>
 [MPI IS](https://is.mpg.de/person/alonardi) • 
@@ -183,5 +184,6 @@ In reverse chronological order, asterisks denote equal contribution.
 <climate-clock/>
 </p>
 
+<br/>
 Last udated on March 6, 2024.
 Powered by [Foam](https://github.com/foambubble).

@@ -16,17 +16,16 @@
 }
 
   /* Reduce the margin between list items */
-  .no-bullet-reduce-spacing {
-    ul {
-      margin: 0;
-      padding: 0;
-      list-style-type: none;
-    }
-    
-    li {
-      margin-bottom: 5px; /* Adjust this value to reduce spacing */
-    }
+  ul.no-bullet-reduce-spacing {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
   }
+    
+  ul.no-bullet-reduce-spacing li {
+      margin-bottom: 5px; /* Adjust this value to reduce spacing */
+  }
+  
 </style>
 
 <div class="container">

@@ -16,7 +16,7 @@
   }
 
   br.less-spacing {
-    margin-bottom: 0.4em; /* Adjust as needed */
+    margin-bottom: 0.1em; /* Adjust as needed */
   }
 </style>
 
@@ -114,7 +114,7 @@ In reverse chronological order, asterisks denote equal contribution.
 </ul>
 
 <ul class="no-bullet">
-  <li><strong>Immiscible Color Flows in Optimal Transport Networks for Image Classification</strong><br class="less-spacing">
+  <li><strong>Immiscible Color Flows in Optimal Transport Networks for Image Classification</strong></li><br class="less-spacing">
     <ul class="no-bullet">
       <li>Authors: Alessandro Lonardi*, Diego Baptista*, Caterina De Bacco</li>
       <li>Venue: <a href="https://www.frontiersin.org/articles/10.3389/fphy.2023.1089114/abstract">Frontiers in Physics 11:1089114</a></li>
@@ -124,11 +124,10 @@ In reverse chronological order, asterisks denote equal contribution.
       <li>Misc: <a href="https://github.com/aleable/MODI/blob/main/misc/POSTER_MODI.pdf">Poster</a>, <a href="https://www.treedom.net/en/page/register?id=49Z-KEWX">CO₂ compensation</a></li>
       <li>Type: Journal Paper</li>
     </ul>
-  </li>
 </ul>
 
 <ul class="no-bullet">
-  <li><strong>Infrastructure adaptation and emergence of loops in network routing with time-dependent loads</strong><br class="less-spacing">
+  <li><strong>Infrastructure adaptation and emergence of loops in network routing with time-dependent loads</strong></li><br class="less-spacing">
     <ul class="no-bullet">
       <li>Authors: Alessandro Lonardi, Enrico Facca, Mario Putti, Caterina De Bacco</li>
       <li>Venue: <a href="https://journals.aps.org/pre/abstract/10.1103/PhysRevE.107.024302">Physical Review E 107, 024302</a></li>
@@ -137,11 +136,10 @@ In reverse chronological order, asterisks denote equal contribution.
       <li>Year: 2023</li>
       <li>Type: Journal Paper</li>
     </ul>
-  </li>
 </ul>
 
 <ul class="no-bullet">
-  <li><strong>Multicommodity routing optimization for engineering networks</strong><br class="less-spacing">
+  <li><strong>Multicommodity routing optimization for engineering networks</strong></li><br class="less-spacing">
     <ul class="no-bullet">
       <li>Authors: Alessandro Lonardi, Mario Putti, Caterina De Bacco</li>
       <li>Venue: <a href="https://www.nature.com/articles/s41598-022-11348-9">Scientific Reports 12, 7474</a></li>
@@ -150,11 +148,10 @@ In reverse chronological order, asterisks denote equal contribution.
       <li>Year: 2022</li>
       <li>Type: Journal Paper</li>
     </ul>
-  </li>
 </ul>
 
 <ul class="no-bullet">
-  <li><strong>Optimal Transport in Multilayer Networks for Traffic Flow Optimization</strong><br class="less-spacing">
+  <li><strong>Optimal Transport in Multilayer Networks for Traffic Flow Optimization</strong></li><br class="less-spacing">
     <ul class="no-bullet">
       <li>Authors: Abdullahi Adinoyi Ibrahim, Alessandro Lonardi, Caterina De Bacco</li>
       <li>Venue: <a href="https://www.mdpi.com/1999-4893/14/7/189">Algorithms, 14(7), 189</a></li>
@@ -163,11 +160,10 @@ In reverse chronological order, asterisks denote equal contribution.
       <li>Year: 2021</li>
       <li>Type: Journal Paper</li>
     </ul>
-  </li>
 </ul>
 
 <ul class="no-bullet">
-  <li><strong>Designing optimal networks for multicommodity transport problem</strong><br class="less-spacing">
+  <li><strong>Designing optimal networks for multicommodity transport problem</strong></li><br class="less-spacing">
     <ul class="no-bullet">
       <li>Authors: Alessandro Lonardi, Enrico Facca, Mario Putti, Caterina De Bacco</li>
       <li>Venue: <a href="https://link.aps.org/doi/10.1103/PhysRevResearch.3.043010">Physical Review Research 3, 043010</a></li>
@@ -176,7 +172,6 @@ In reverse chronological order, asterisks denote equal contribution.
       <li>Year: 2021</li>
       <li>Type: Journal Paper</li>
     </ul>
-  </li>
 </ul>
 
 </details>

@@ -15,16 +15,6 @@
   list-style-type: none;
 }
 
-  /* Reduce the margin between list items */
-  ul.no-bullet-reduce-spacing {
-    list-style-type: none;
-  }
-    
-  ul.no-bullet-reduce-spacing li {
-    margin-bottom: 0; /* Adjust as needed */
-    padding-bottom: 0; /* Adjust as needed */
-  }
-
 </style>
 
 <div class="container">
@@ -93,7 +83,7 @@ In reverse chronological order, asterisks denote equal contribution.
 
 <ul class="no-bullet">
   <li><strong>Message-Passing on Hypergraphs: Detectability, Phase Transitions, and Higher-Order Information</strong></li>
-    <ul class="no-bullet-reduce-spacing">
+    <ul class="no-bullet">
       <li>Authors: Nicolò Ruggeri*, Alessandro Lonardi*, Caterina De Bacco</li>
       <li>Venue: Journal of Statistical Mechanics: Theory and Experiment</li>
       <li>Preprint: <a href="https://arxiv.org/abs/2312.00708">arXiv</a></li>
@@ -109,7 +99,7 @@ In reverse chronological order, asterisks denote equal contribution.
 
 <br/><ul class="no-bullet">
   <li><strong>Bilevel Optimization for Traffic Mitigation in Optimal Transport Networks</strong></li>
-  <ul class="no-bullet-reduce-spacing">
+  <ul class="no-bullet">
   <li>Authors: Alessandro Lonardi, Caterina De Bacco</li>
   <li>Venue: <a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.131.267401">Physical Review Letters 131, 267401</a></li>
   <li>Preprint: <a href="https://arxiv.org/abs/2306.16246">arXiv</a></li>
@@ -121,7 +111,7 @@ In reverse chronological order, asterisks denote equal contribution.
 
 <ul class="no-bullet">
   <li><strong>Immiscible Color Flows in Optimal Transport Networks for Image Classification</strong>
-    <ul class="no-bullet-reduce-spacing">
+    <ul class="no-bullet">
       <li>Authors: Alessandro Lonardi*, Diego Baptista*, Caterina De Bacco</li>
       <li>Venue: <a href="https://www.frontiersin.org/articles/10.3389/fphy.2023.1089114/abstract">Frontiers in Physics 11:1089114</a></li>
       <li>Preprint: <a href="https://arxiv.org/abs/2205.02938">arXiv</a></li>
@@ -135,7 +125,7 @@ In reverse chronological order, asterisks denote equal contribution.
 
 <ul class="no-bullet">
   <li><strong>Infrastructure adaptation and emergence of loops in network routing with time-dependent loads</strong>
-    <ul class="no-bullet-reduce-spacing">
+    <ul class="no-bullet">
       <li>Authors: Alessandro Lonardi, Enrico Facca, Mario Putti, Caterina De Bacco</li>
       <li>Venue: <a href="https://journals.aps.org/pre/abstract/10.1103/PhysRevE.107.024302">Physical Review E 107, 024302</a></li>
       <li>Preprint: <a href="https://arxiv.org/abs/2112.10620">arXiv</a></li>
@@ -148,7 +138,7 @@ In reverse chronological order, asterisks denote equal contribution.
 
 <ul class="no-bullet">
   <li><strong>Multicommodity routing optimization for engineering networks</strong>
-    <ul class="no-bullet-reduce-spacing">
+    <ul class="no-bullet">
       <li>Authors: Alessandro Lonardi, Mario Putti, Caterina De Bacco</li>
       <li>Venue: <a href="https://www.nature.com/articles/s41598-022-11348-9">Scientific Reports 12, 7474</a></li>
       <li>Preprint: <a href="https://arxiv.org/abs/2110.06171">arXiv</a></li>
@@ -161,7 +151,7 @@ In reverse chronological order, asterisks denote equal contribution.
 
 <ul class="no-bullet">
   <li><strong>Optimal Transport in Multilayer Networks for Traffic Flow Optimization</strong>
-    <ul class="no-bullet-reduce-spacing">
+    <ul class="no-bullet">
       <li>Authors: Abdullahi Adinoyi Ibrahim, Alessandro Lonardi, Caterina De Bacco</li>
       <li>Venue: <a href="https://www.mdpi.com/1999-4893/14/7/189">Algorithms, 14(7), 189</a></li>
       <li>Preprint: <a href="https://arxiv.org/abs/2106.07202">arXiv</a></li>
@@ -174,7 +164,7 @@ In reverse chronological order, asterisks denote equal contribution.
 
 <ul class="no-bullet">
   <li><strong>Designing optimal networks for multicommodity transport problem</strong>
-    <ul class="no-bullet-reduce-spacing">
+    <ul class="no-bullet">
       <li>Authors: Alessandro Lonardi, Enrico Facca, Mario Putti, Caterina De Bacco</li>
       <li>Venue: <a href="https://link.aps.org/doi/10.1103/PhysRevResearch.3.043010">Physical Review Research 3, 043010</a></li>
       <li>Preprint: <a href="https://arxiv.org/abs/2010.14377">arXiv</a></li>

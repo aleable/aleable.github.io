@@ -5,6 +5,8 @@
 <div style="float: right">***</div>
 </div>
 
+<p></p>
+
 <a href="../files/CV_ACTIVITIES_PUBLICATIONS.pdf" download><b>CV</b></a> (including a list of publications and other academic services) <br/>
 [MPI IS](https://is.mpg.de/person/alonardi) • 
 [Email](mailto:alessandro.lonardi@tuebingen.mpg.de) • 

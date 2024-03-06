@@ -48,112 +48,13 @@ My current research mainly focuses on developing mathematical models for optimiz
 <li><b>Feb 12, 2021:</b> I joined the <a href="https://imprs.is.mpg.de">International Max Planck Research School for Intelligent Systems</a>!</li>
 </ul>
 </details>
+<br/>
 
-<!-- IE < 10 does not like giving a tbody a height.  The workaround here applies the scrolling to a wrapped <div>. -->
-<!--[if lte IE 9]>
-<div class="old_ie_wrapper">
-<!--<![endif]-->
+<h1>Publications</h1>
 
-<table class="fixed_headers">
-  <thead>
-    <tr>
-      <th>Name</th>
-      <th>Color</th>
-      <th>Description</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Apple</td>
-      <td>Red</td>
-      <td>These are red.</td>
-    </tr>
-    <tr>
-      <td>Pear</td>
-      <td>Green</td>
-      <td>These are green.</td>
-    </tr>
-    <tr>
-      <td>Grape</td>
-      <td>Purple / Green</td>
-      <td>These are purple and green.</td>
-    </tr>
-    <tr>
-      <td>Orange</td>
-      <td>Orange</td>
-      <td>These are orange.</td>
-    </tr>
-    <tr>
-      <td>Banana</td>
-      <td>Yellow</td>
-      <td>These are yellow.</td>
-    </tr>
-    <tr>
-      <td>Kiwi</td>
-      <td>Green</td>
-      <td>These are green.</td>
-    </tr>
-    <tr>
-      <td>Plum</td>
-      <td>Purple</td>
-      <td>These are Purple</td>
-    </tr>
-    <tr>
-      <td>Watermelon</td>
-      <td>Red</td>
-      <td>These are red.</td>
-    </tr>
-    <tr>
-      <td>Tomato</td>
-      <td>Red</td>
-      <td>These are red.</td>
-    </tr>
-    <tr>
-      <td>Cherry</td>
-      <td>Red</td>
-      <td>These are red.</td>
-    </tr>
-    <tr>
-      <td>Cantelope</td>
-      <td>Orange</td>
-      <td>These are orange inside.</td>
-    </tr>
-    <tr>
-      <td>Honeydew</td>
-      <td>Green</td>
-      <td>These are green inside.</td>
-    </tr>
-    <tr>
-      <td>Papaya</td>
-      <td>Green</td>
-      <td>These are green.</td>
-    </tr>
-    <tr>
-      <td>Raspberry</td>
-      <td>Red</td>
-      <td>These are red.</td>
-    </tr>
-    <tr>
-      <td>Blueberry</td>
-      <td>Blue</td>
-      <td>These are blue.</td>
-    </tr>
-    <tr>
-      <td>Mango</td>
-      <td>Orange</td>
-      <td>These are orange.</td>
-    </tr>
-    <tr>
-      <td>Passion Fruit</td>
-      <td>Green</td>
-      <td>These are green.</td>
-    </tr>
-  </tbody>
-</table>
-
-<!--[if lte IE 9]>
-</div>
-<!--<![endif]-->
+| Title | Authors | Publication | Preprint | Code | Year | Misc | Status |
+|:---|:---|:---|:---|:---|:---|:---|:---|
+| Optimal Transport in Multilayer Networks for Traffic Flow Optimization | Abdullahi Adinoyi Ibrahim<br/>Alessandro Lonardi<br/>Caterina De Bacco | [Algorithms, 14(7), 189](https://www.mdpi.com/1999-4893/14/7/189) | [arXiv](https://arxiv.org/abs/2106.07202) | [GitHub](https://github.com/cdebacco/MultiOT) | 2021 | --- | Published |
 
 <br/>
 <p>

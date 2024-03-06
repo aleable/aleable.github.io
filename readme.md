@@ -90,7 +90,7 @@ The last publication I contributed to is:
 <details>
 <summary><b>All publications</b></summary>
 
-<ul class="no-bullet">
+<br/><ul class="no-bullet">
   <li><strong>Bilevel Optimization for Traffic Mitigation in Optimal Transport Networks</strong></li>
   <li>Alessandro Lonardi, Caterina De Bacco</li>
   <li><a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.131.267401">Physical Review Letters 131, 267401 (2023)</a> • <a href="https://arxiv.org/abs/2306.16246">arXiv</a> • <a href="https://github.com/aleable/BROT">GitHub</a></li>

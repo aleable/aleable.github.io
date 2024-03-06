@@ -17,15 +17,13 @@
 
   /* Reduce the margin between list items */
   ul.no-bullet-reduce-spacing {
-    margin: 0;
-    padding: 0;
     list-style-type: none;
   }
     
   ul.no-bullet-reduce-spacing li {
-      margin-bottom: 5px; /* Adjust this value to reduce spacing */
+      margin-bottom: 1px; /* Adjust this value to reduce spacing */
   }
-  
+
 </style>
 
 <div class="container">
@@ -109,7 +107,7 @@ In reverse chronological order, asterisks denote equal contribution.
 <summary><b>All publications</b></summary>
 
 <br/><ul class="no-bullet">
-  <li>Bilevel Optimization for Traffic Mitigation in Optimal Transport Networks</li>
+  <li><strong>Bilevel Optimization for Traffic Mitigation in Optimal Transport Networks</strong></li>
   <ul class="no-bullet-reduce-spacing">
   <li>Authors: Alessandro Lonardi, Caterina De Bacco</li>
   <li>Publication: <a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.131.267401">Physical Review Letters 131, 267401</a></li>

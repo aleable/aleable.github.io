@@ -26,32 +26,11 @@ My current research mainly focuses on developing mathematical models for optimiz
 
 <h1>Publications</h1>
 
-<table style="background-color: #202020;">
-  <thead>
-    <tr>
-      <th>Title</th>
-      <th>Authors</th>
-      <th>Publication</th>
-      <th>Preprint</th>
-      <th>Code</th>
-      <th>Year</th>
-      <th>Misc</th>
-      <th>Status</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Optimal Transport in Multilayer Networks for Traffic Flow Optimization</td>
-      <td>Abdullahi Adinoyi Ibrahim<br/>Alessandro Lonardi<br/>Caterina De Bacco</td>
-      <td><a href="https://www.mdpi.com/1999-4893/14/7/189">Algorithms, 14(7), 189</a></td>
-      <td><a href="https://arxiv.org/abs/2106.07202">arXiv</a></td>
-      <td><a href="https://github.com/cdebacco/MultiOT">GitHub</a></td>
-      <td>2021</td>
-      <td>—</td>
-      <td>Published</td>
-    </tr>
-  </tbody>
-</table>
+In reverse chronological order, asterisks denote equal contribution.
+
+| Title | Authors | Publication | Preprint | Code | Year | Misc | Status |
+|:---|:---|:---|:---|---|---|---|---|
+| Optimal Transport in Multilayer Networks for Traffic Flow Optimization | Abdullahi Adinoyi Ibrahim<br/>Alessandro Lonardi<br/>Caterina De Bacco | [Algorithms, 14(7), 189](https://www.mdpi.com/1999-4893/14/7/189) | [arXiv](https://arxiv.org/abs/2106.07202) | [GitHub](https://github.com/cdebacco/MultiOT) | 2021 | — | Published |
 
 <h1>News</h1>
 

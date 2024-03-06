@@ -26,7 +26,7 @@ My current research mainly focuses on developing mathematical models for optimiz
 
 <h1>Publications</h1>
 
-<table style="background-color: #202020; color: white;">
+<table style="background-color: #202020;">
   <thead>
     <tr>
       <th>Title</th>

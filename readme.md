@@ -6,12 +6,14 @@
   }
 </style>
 
-<img src="./files/alessandro.jpg" alt="profile" width="25%"/>
+<img src="./files/alessandro.jpg" alt="profile" width="33%"/>
 
-<p>PhD student<br/>
+<p>
+PhD student<br/>
 Max Planck Institute for Intelligent Systems<br/>
 Room S2.018<br/>
-Max-Planck-Ring 4, 72076, Tübingen, Germany</p>
+Max-Planck-Ring 4, 72076, Tübingen, Germany
+</p>
 
 <a href="../files/CV_ACTIVITIES_PUBLICATIONS.pdf" download><b>CV</b></a> (including a list of publications and other academic services) <br/>
 [MPI IS](https://is.mpg.de/person/alonardi) • 

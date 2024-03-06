@@ -2,10 +2,10 @@
 
 <img style="float: left;" src="./files/alessandro.jpg" alt="profile" width="30%"/>
 <div style="float: right">
-<li><a href="#Welcome">Short bio</a></li>
-<li><a href="#Research">Research</a>
-<li><a href="#News">News</a></li>
-<li><a href="#Publications">Publications</a></li>
+PhD student<br/>
+Max Planck Institute for Intelligent Systems<br/>
+Room S2.018<br/>
+Max-Planck-Ring 4, 72076, Tübingen, Germany
 </div>
 <div style="clear: both;"></div> <!-- Add this line to clear the floating elements -->
 

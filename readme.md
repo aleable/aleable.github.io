@@ -2,12 +2,10 @@
 
 <img style="float: left;" src="./files/alessandro.jpg" alt="profile" width="30%"/>
 <div style="float: right">
-<ul>
-    <li><a href="#Welcome">Short bio</a></li>
-    <li><a href="#Research">Research</a>
-    <li><a href="#News">News</a></li>
-    <li><a href="#Publications">Publications</a></li>
-</ul>
+<li><a href="#Welcome">Short bio</a></li>
+<li><a href="#Research">Research</a>
+<li><a href="#News">News</a></li>
+<li><a href="#Publications">Publications</a></li>
 </div>
 <div style="clear: both;"></div> <!-- Add this line to clear the floating elements -->
 

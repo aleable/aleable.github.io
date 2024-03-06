@@ -6,7 +6,7 @@
   }
 </style>
 
-<img style="float: left;" src="./files/alessandro.jpg" alt="profile" width="25%"/>
+<img src="./files/alessandro.jpg" alt="profile" width="25%"/>
 
 <p>PhD student<br/>
 Max Planck Institute for Intelligent Systems<br/>

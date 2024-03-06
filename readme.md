@@ -12,8 +12,6 @@
     margin-left: 20px; /* Add some space between image and text */
   }
 </style>
-</head>
-<body>
 
 <div class="container">
   <img style="float: left;" src="./files/alessandro.jpg" alt="profile" width="30%"/>
@@ -24,6 +22,7 @@
     Max-Planck-Ring 4, 72076, Tübingen, Germany</p>
   </div>
 </div>
+<div style="clear: both;"></div> <!-- Add this line to clear the floating elements -->
 
 <a href="../files/CV_ACTIVITIES_PUBLICATIONS.pdf" download><b>CV</b></a> (including a list of publications and other academic services) <br/>
 [MPI IS](https://is.mpg.de/person/alonardi) • 

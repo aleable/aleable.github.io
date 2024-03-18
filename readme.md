@@ -28,9 +28,7 @@ Max-Planck-Ring 4, 72076, Tübingen, Germany
 [Web of Science](https://www.webofscience.com/wos/author/record/GYA-1831-2022)
 
 <br/>
-I am Alessandro Lonardi, a PhD student at the <a href="https://is.mpg.de/">Max Planck Institute for Intelligent Systems</a> (Tübingen, Germany), working under the supervision of Dr. <a href="https://cdebacco.com/">Caterina De Bacco</a> in the <a href="https://is.mpg.de/employees?_=1598796063852&action=index&controller=employees&departments=pio&query=&utf8=\%E2\%9C\%93">Physics for Inference and Optimization group</a>. Previous to that, I was a Master's student in Mathematical Engineering at the <a href="https://www.unipd.it/en/">University of Padova</a> (Padua, Italy), where I also obtained my Bachelor's degree in Physics.<br/>
-
-My PhD is supported by the <a href="https://imprs.is.mpg.de">International Max Planck Research School for Intelligent Systems</a> (IMPRS-IS), which is part of the <a href="https://cyber-valley.de/en">Cyber Valley</a> initiative.
+I am Alessandro Lonardi, a PhD student at the <a href="https://is.mpg.de/">Max Planck Institute for Intelligent Systems</a> (Tübingen, Germany), working under the supervision of Dr. <a href="https://cdebacco.com/">Caterina De Bacco</a> in the <a href="https://is.mpg.de/employees?_=1598796063852&action=index&controller=employees&departments=pio&query=&utf8=\%E2\%9C\%93">Physics for Inference and Optimization group</a>. Previous to that, I was a Master's student in Mathematical Engineering at the <a href="https://www.unipd.it/en/">University of Padova</a> (Padua, Italy), where I also obtained my Bachelor's degree in Physics. My PhD is supported by the <a href="https://imprs.is.mpg.de">International Max Planck Research School for Intelligent Systems</a> (IMPRS-IS), which is part of the <a href="https://cyber-valley.de/en">Cyber Valley</a> initiative.
 
 <h1>Research</h1>
 

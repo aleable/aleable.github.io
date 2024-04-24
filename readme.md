@@ -36,7 +36,7 @@ My research focuses on data-rich problems where inferential predictions and mech
 
 <h1>News</h1>
 
-* <b>Apr 24, 2024:</b> Our paper  <a href="https://iopscience.iop.org/article/10.1088/1742-5468/ad343b">Message-Passing on Hypergraphs: Detectability, Phase Transitions, and Higher-Order Information</a> has been accepted to Journal of Statistical Mechanics: Theory and Experiment. Here a <a href="https://www.linkedin.com/feed/update/urn:li:activity:7188845420196884480/">tl;dr summary</a> of the paper.
+* <b>Apr 24, 2024:</b> Our paper  <a href="https://iopscience.iop.org/article/10.1088/1742-5468/ad343b">Message-Passing on Hypergraphs: Detectability, Phase Transitions, and Higher-Order Information</a> is in Journal of Statistical Mechanics: Theory and Experiment. Here a <a href="https://www.linkedin.com/feed/update/urn:li:activity:7188845420196884480/">tl;dr summary</a> of the paper.
 * <b>Apr 6, 2024:</b> I gave the talk <a href="https://aleable.github.io/files/lonardi2024mop.pdf">Bilevel optimization for traffic mitigation in optimal transport networks</a>, at the <a href="https://www.mop.uni-saarland.de/teaching/MOPResearchSeminar/index.shtml">Research Seminar on Mathematical Optimization</a> of the Mathematical Optimization for Data Science Group at Saarbrücken University, Germany.
 * <b>Dec 26, 2023:</b> Our paper <a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.131.267401">Bilevel Optimization for Traffic Mitigation in Optimal Transport Networks</a> is in Physical Review Letters!
 <details>
@@ -115,5 +115,5 @@ The last publication I contributed to is:
 </details>
 
 <br/>
-Last updated on April 18, 2024.
+Last updated on April 24, 2024.
 Powered by [Foam](https://github.com/foambubble).

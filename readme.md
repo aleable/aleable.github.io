@@ -70,7 +70,7 @@ The last publication I contributed to is:
 <ul class="no-bullet">
   <li><strong>Message-Passing on Hypergraphs: Detectability, Phase Transitions, and Higher-Order Information</strong><br/>
   Nicolò Ruggeri*, Alessandro Lonardi*, Caterina De Bacco<br/>
-  <a href="https://iopscience.iop.org/article/10.1088/1742-5468/ad343b">Journal of Statistical Mechanics: Theory and Experiment 043403 (2024)</a> • <a href="https://arxiv.org/abs/2312.00708">arXiv</a> • <a href="https://github.com/nickruggeri/hypergraph-message-passing">GitHub</a> • <a href="https://www.treedom.net/en/user/nicolo-ruggeri-7568/trees/ZMG-8DNK">CO₂ compensation</a></li>
+  <a href="https://iopscience.iop.org/article/10.1088/1742-5468/ad343b">Journal of Statistical Mechanics: Theory and Experiment (4), 043403 (2024)</a> • <a href="https://arxiv.org/abs/2312.00708">arXiv</a> • <a href="https://github.com/nickruggeri/hypergraph-message-passing">GitHub</a> • <a href="https://www.treedom.net/en/user/nicolo-ruggeri-7568/trees/ZMG-8DNK">CO₂ compensation</a></li>
 </ul>
 
 <details>

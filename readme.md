@@ -9,17 +9,15 @@
 <img src="./files/alessandro.jpg" alt="profile" width="33%"/>
 
 <p>
-PhD student<br/>
-Max Planck Institute for Intelligent Systems<br/>
-Room S2.018<br/>
-Max-Planck-Ring 4, 72076, Tübingen, Germany
+Incoming Assistant AI Researcher<br/>
+Sony AI <br/>
+Bacelona, Spain
 </p>
 <br/>
 
 <a href="../files/CV_one_page.pdf" download><b>One-page CV</b></a> (for industry)<br/>
 <a href="../files/CV_long.pdf" download><b>Long CV</b></a> (for academia, with a full publication list, academic services, and extra resources for talks)<br/>
-[MPI IS](https://is.mpg.de/person/alonardi) • 
-[Email](mailto:alessandro.lonardi@tuebingen.mpg.de) • 
+[Email](mailto:alessandro.lonardi.vr@gmail.com) • 
 [GitHub](https://github.com/aleable) • 
 [LinkedIn](https://www.linkedin.com/in/alonardi/) • 
 [ORCID](https://orcid.org/0000-0003-4866-8088) • 
@@ -28,14 +26,17 @@ Max-Planck-Ring 4, 72076, Tübingen, Germany
 [Web of Science](https://www.webofscience.com/wos/author/record/GYA-1831-2022)
 
 <br/>
-I am Alessandro Lonardi, a PhD student at the <a href="https://is.mpg.de/">Max Planck Institute for Intelligent Systems</a> (Tübingen, Germany), working under the supervision of Dr. <a href="https://cdebacco.com/">Caterina De Bacco</a> in the <a href="https://is.mpg.de/employees?_=1598796063852&action=index&controller=employees&departments=pio&query=&utf8=\%E2\%9C\%93">Physics for Inference and Optimization group</a>. Previous to that, I was a Master's student in Mathematical Engineering at the <a href="https://www.unipd.it/en/">University of Padova</a> (Padua, Italy), where I also obtained my Bachelor's degree in Physics. My PhD is supported by the <a href="https://imprs.is.mpg.de">International Max Planck Research School for Intelligent Systems</a> (IMPRS-IS), which is part of the <a href="https://cyber-valley.de/en">Cyber Valley</a> initiative.
+I am Alessandro Lonardi, an Incoming Assistant AI Researcher at <a href="https://ai.sony/">Sony AI</a> in Barcelona, Spain. Before that, I was a PhD student at the <a href="https://is.mpg.de/">Max Planck Institute for Intelligent Systems</a> in Tübingen, Germany. I did my PhD under the supervision of <a href="https://cdebacco.com/">Caterina De Bacco</a> in the <a href="https://is.mpg.de/employees?_=1598796063852&action=index&controller=employees&departments=pio&query=&utf8=\%E2\%9C\%93">Physics for Inference and Optimization group</a>. My PhD was supported by the <a href="https://imprs.is.mpg.de">International Max Planck Research School for Intelligent Systems</a> (IMPRS-IS), which is part of the <a href="https://cyber-valley.de/en">Cyber Valley</a> initiative. I obtained my Master's degree in Mathematical Engineering at the <a href="https://www.unipd.it/en/">University of Padova</a> in Padua, Italy. There, I also got my Bachelor's degree in Physics.
 
 <h1>Research</h1>
 
-My research focuses on data-rich problems where inferential predictions and mechanistic models mutually inform each other to describe complex systems. To address these problems, I develop mathematical models rooted in statistical physics and scalable algorithms. My interests are mainly in, but not limited to, urban sciences, machine learning, social sciences, and biology, and they fall under the umbrella of AI for science.
+My research focuses on machine learning problems where inferential predictions and mechanistic models mutually inform each other to describe complex systems. To address these problems, I develop mathematical models rooted in statistical physics and scalable algorithms. I enjoy working on applications in urban sciences, social sciences, and biology, among other fields. Overall, I like advancing scientific discovery with AI.
 
 <h1>News</h1>
 
+* <b>Jul 1, 2024:</b> I am joining [Sony AI](https://ai.sony/) in Barcelona 🇪🇸.
+* <b>May 1, 2024:</b> A new preprint <a href="https://arxiv.org/abs/2405.02052">Cohesive urban bicycle infrastructure design through optimal transport routing in multilayer networks</a> is on the arXiv.
+* <b>Apr 26, 2024:</b> I defended <a href="https://publikationen.uni-tuebingen.de/xmlui/handle/10900/153202?locale-attribute=en">my PhD thesis</a>!
 * <b>Apr 24, 2024:</b> Our paper  <a href="https://iopscience.iop.org/article/10.1088/1742-5468/ad343b">Message-Passing on Hypergraphs: Detectability, Phase Transitions, and Higher-Order Information</a> is in Journal of Statistical Mechanics: Theory and Experiment. Here a <a href="https://www.linkedin.com/feed/update/urn:li:activity:7188845420196884480/">tl;dr summary</a> of the paper.
 * <b>Apr 6, 2024:</b> I gave the talk <a href="https://aleable.github.io/files/lonardi2024mop.pdf">Bilevel optimization for traffic mitigation in optimal transport networks</a>, at the <a href="https://www.mop.uni-saarland.de/teaching/MOPResearchSeminar/index.shtml">Research Seminar on Mathematical Optimization</a> of the Mathematical Optimization for Data Science Group at Saarbrücken University, Germany.
 * <b>Dec 26, 2023:</b> Our paper <a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.131.267401">Bilevel Optimization for Traffic Mitigation in Optimal Transport Networks</a> is in Physical Review Letters!
@@ -68,13 +69,24 @@ In reverse chronological order, asterisks denote equal contribution.
 The last publication I contributed to is:
 
 <ul class="no-bullet">
-  <li><strong>Message-Passing on Hypergraphs: Detectability, Phase Transitions, and Higher-Order Information</strong><br/>
-  Nicolò Ruggeri*, Alessandro Lonardi*, Caterina De Bacco<br/>
-  <a href="https://iopscience.iop.org/article/10.1088/1742-5468/ad343b">Journal of Statistical Mechanics: Theory and Experiment (4), 043403 (2024)</a> • <a href="https://arxiv.org/abs/2312.00708">arXiv</a> • <a href="https://github.com/nickruggeri/hypergraph-message-passing">GitHub</a> • <a href="https://www.treedom.net/en/user/nicolo-ruggeri-7568/trees/ZMG-8DNK">CO₂ compensation</a></li>
+  <li><strong>Cohesive urban bicycle infrastructure design through optimal transport routing in multilayer networks</strong><br/>
+  Alessandro Lonardi, Michael Szell, Caterina De Bacco<br/>
+  <a href="https://arxiv.org/abs/2405.02052">arXiv</a> • <a href="https://github.com/cdebacco/MultiOT">GitHub</a></li>
 </ul>
 
 <details>
 <summary><b>Toggle all publications</b></summary>
+
+<ul class="no-bullet">
+  <li><strong>Designing Networks with Adaptation Rules and Optimal Transport</strong> (PhD thesis)<br/>Alessandro Lonardi<br/>
+  <a href="https://publikationen.uni-tuebingen.de/xmlui/handle/10900/153202?locale-attribute=en">University of Tübingen (2024)</a>
+</ul>
+
+<ul class="no-bullet">
+  <li><strong>Message-Passing on Hypergraphs: Detectability, Phase Transitions, and Higher-Order Information</strong><br/>
+  Nicolò Ruggeri*, Alessandro Lonardi*, Caterina De Bacco<br/>
+  <a href="https://iopscience.iop.org/article/10.1088/1742-5468/ad343b">Journal of Statistical Mechanics: Theory and Experiment (4), 043403 (2024)</a> • <a href="https://arxiv.org/abs/2312.00708">arXiv</a> • <a href="https://github.com/nickruggeri/hypergraph-message-passing">GitHub</a> • <a href="https://www.treedom.net/en/user/nicolo-ruggeri-7568/trees/ZMG-8DNK">CO₂ compensation</a></li>
+</ul>
 
 <br/><ul class="no-bullet">
   <li><strong>Bilevel Optimization for Traffic Mitigation in Optimal Transport Networks</strong><br/>

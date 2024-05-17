@@ -79,10 +79,10 @@ The last publication I contributed to is:
 
 <ul class="no-bullet">
   <li><strong>Designing Networks with Adaptation Rules and Optimal Transport</strong> (PhD thesis)<br/>Alessandro Lonardi<br/>
-  <a href="https://publikationen.uni-tuebingen.de/xmlui/handle/10900/153202?locale-attribute=en">University of Tübingen (2024)</a>
+  <a href="https://publikationen.uni-tuebingen.de/xmlui/handle/10900/153202?locale-attribute=en">University of Tübingen (2024)</a></li>
 </ul>
 
-<ul class="no-bullet">
+<br/><ul class="no-bullet">
   <li><strong>Message-Passing on Hypergraphs: Detectability, Phase Transitions, and Higher-Order Information</strong><br/>
   Nicolò Ruggeri*, Alessandro Lonardi*, Caterina De Bacco<br/>
   <a href="https://iopscience.iop.org/article/10.1088/1742-5468/ad343b">Journal of Statistical Mechanics: Theory and Experiment (4), 043403 (2024)</a> • <a href="https://arxiv.org/abs/2312.00708">arXiv</a> • <a href="https://github.com/nickruggeri/hypergraph-message-passing">GitHub</a> • <a href="https://www.treedom.net/en/user/nicolo-ruggeri-7568/trees/ZMG-8DNK">CO₂ compensation</a></li>
@@ -127,5 +127,4 @@ The last publication I contributed to is:
 </details>
 
 <br/>
-Last updated on April 24, 2024.
-Powered by [Foam](https://github.com/foambubble).
+Last updated in May, 2024.

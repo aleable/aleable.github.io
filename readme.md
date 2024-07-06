@@ -9,16 +9,16 @@
 <img src="./files/alessandro.jpg" alt="profile" width="33%"/>
 
 <p>
-Incoming Assistant AI Researcher<br/>
+Assistant AI Researcher<br/>
 Sony AI <br/>
-Bacelona, Spain
+Avda. del Portal de l'Àngel, 40, Ciutat Vella, 08002 Bacelona, Spain
 </p>
 <br/>
 
 <a href="../files/CV_one_page.pdf" download><b>One-page CV</b></a> (for industry)<br/>
 <a href="../files/CV_long.pdf" download><b>Long CV</b></a> (for academia, with a full publication list, academic services, and extra resources for talks)<br/>
 [Email](mailto:alessandro.lonardi.vr@gmail.com) • 
-[GitHub](https://github.com/aleable) • 
+[GitHub](https://github.com/aleable) / [GitHub](https://github.com/aleable-sony) • 
 [LinkedIn](https://www.linkedin.com/in/alonardi/) • 
 [ORCID](https://orcid.org/0000-0003-4866-8088) • 
 [arXiv](https://arxiv.org/search/?query=Alessandro+Lonardi&searchtype=author&abstracts=show&order=-announced_date_first&size=50) • 
@@ -30,7 +30,7 @@ I am Alessandro Lonardi, an Incoming Assistant AI Researcher at <a href="https:/
 
 <h1>Research</h1>
 
-My research focuses on machine learning problems where inferential predictions and mechanistic models mutually inform each other to describe complex systems. To address these problems, I develop mathematical models rooted in statistical physics and scalable algorithms. I enjoy working on applications in urban sciences, social sciences, and biology, among other fields. Overall, I like advancing scientific discovery with AI.
+My research focuses on machine learning problems where inferential predictions and mechanistic models mutually inform each other to describe complex systems. To address these problems, I develop mathematical models rooted in statistical physics and scalable algorithms. I enjoy working on applications in urban sciences, social sciences, and biology, among other fields. Overall, I like advancing scientific discovery with AI. Currently, I am working on the interface between knowledge graphs and XAI.
 
 <h1>News</h1>
 

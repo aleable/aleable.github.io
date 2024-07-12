@@ -6,7 +6,7 @@
   }
 </style>
 
-<img src="./files/alessandro.jpg" alt="profile" width="33%"/>
+<img src="./files/alessandro.jpg" alt="profile" class="responsive-img">
 
 <p>
 Assistant AI Researcher<br/>

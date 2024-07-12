@@ -1,0 +1,6 @@
+/* custom-markdown.css */
+
+/* Hide the link that Foam automatically adds to the header */
+.markdown-preview h1 a {
+    display: none;
+}

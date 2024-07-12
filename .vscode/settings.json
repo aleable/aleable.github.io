@@ -11,6 +11,11 @@
         "other": "on"
     }
   },
+  {
+  "markdown.styles": [
+    "/../assets/css/custom-markdown.css"
+  ]
+  },
   "files.defaultLanguage": "markdown",
   "files.exclude": {
     "**/node_modules": true

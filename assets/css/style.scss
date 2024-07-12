@@ -38,7 +38,7 @@ body {
 
 /* General styles for the image */
 .responsive-img {
-    width: 33%;
+    width: 40%;
     height: auto;
     display: block;
     margin: auto;
@@ -47,7 +47,7 @@ body {
 /* Media query for smaller screens (like phones) */
 @media (max-width: 600px) {
     .responsive-img {
-        width: 100%; /* Make the image take full width on smaller screens */
+        width: 40%; /* Make the image take full width on smaller screens */
     }
 }
 

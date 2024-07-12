@@ -1,5 +1,3 @@
-# Welcome
-
 <style>
   .no-bullet {
   list-style-type: none;

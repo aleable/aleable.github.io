@@ -28,7 +28,7 @@ I am Alessandro Lonardi, an Assistant AI Researcher at <a href="https://ai.sony/
 
 <h1>Research</h1>
 
-My research focuses on machine learning problems where inferential predictions and mechanistic models mutually inform each other to describe complex systems. To address these problems, I develop mathematical models rooted in statistical physics and scalable algorithms. I enjoy working on applications in urban sciences, social sciences, and biology, among other fields. Overall, I like advancing scientific discovery with AI. Currently, I am working on the interface between knowledge graphs and XAI.
+My research focuses on probabilistic generative models and optimization techniques in machine learning for graphs. Currently, I am exploring the intersection of knowledge graphs and explainable AI (XAI). With a background in both physics and computer science, I like developing mathematical models inspired by statistical physics and implementing them in robust, scalable algorithms. I enjoy technical work and am particularly interested in applications within social and urban sciences.
 
 <h1>News</h1>
 

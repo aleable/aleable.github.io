@@ -125,4 +125,4 @@ The last publication I contributed to is:
 </details>
 
 <br/>
-Last updated in May, 2024.
+Last updated in May 2024.

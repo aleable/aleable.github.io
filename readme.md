@@ -13,7 +13,7 @@ Avda. del Portal de l'Àngel, 40, Ciutat Vella, 08002 Bacelona, Spain
 </p>
 <br/>
 
-<a href="../files/CV_long.pdf" download><b>CV</b></a> (with a full publication list, academic services, and extra resources for talks)<br/>
+<a href="../files/CV_Alessandro_Lonardi.pdf" download><b>CV</b></a> (with a full publication list, academic services, and extra resources for talks)<br/>
 [Email](mailto:alessandro.lonardi.vr@gmail.com) • 
 [GitHub](https://github.com/aleable) / [GitHub](https://github.com/aleable-sony) • 
 [LinkedIn](https://www.linkedin.com/in/alonardi/) • 

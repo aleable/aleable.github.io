@@ -30,7 +30,7 @@ I am Alessandro Lonardi, a Research Intern at <a href="https://ai.sony/">Sony AI
 My research focuses on modeling complex systems, with a particular interest in statistical inference, generative models, and optimization methods. With a background in physics and computer science, I enjoy developing mathematical models inspired by statistical physics and implementing them in robust, scalable algorithms.
 I like technical work, but I ([and infinitely more relevant others](https://en.wikipedia.org/wiki/Scientific_method)) believe that empirical observations should always motivate theoretical advancement and scientific inquiry. The applications that interest me the most are AI (especially interpretable and explainable AI) and social and urban sciences.
 
-Some keywords, in no particular order, are: Statistical Physics, Complex Systems, Machine Learning, Statistical Inference, Generative Models, Optimal Transport, Belief Propagation, Knowledge Graphs, XAI, Transportation Networks.
+<b>Some keywords, in no particular order</b>: Statistical Physics, Complex Systems, Machine Learning, Statistical Inference, Generative Models, Optimal Transport, Belief Propagation, Knowledge Graphs, XAI, Transportation Networks.
 
 <h1>News</h1>
 

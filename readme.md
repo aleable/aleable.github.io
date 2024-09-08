@@ -1,9 +1,3 @@
-<style>
-  .no-bullet {
-  list-style-type: none;
-  }
-</style>
-
 <img src="./files/alessandro.jpg" alt="profile" width="40%"/>
 
 <p>
@@ -14,12 +8,12 @@ Avda. del Portal de l'Àngel, 40, Ciutat Vella, 08002 Bacelona, Spain
 <br/>
 
 <a href="../files/CV_Alessandro_Lonardi.pdf" download><b>CV</b></a> (with a full publication list, academic services, and extra resources for talks)<br/>
-[Email](mailto:alessandro.lonardi.vr@gmail.com) | 
-[GitHub](https://github.com/aleable) - [GitHub](https://github.com/aleable-sony) | 
-[LinkedIn](https://www.linkedin.com/in/alonardi/) | 
-[ORCID](https://orcid.org/0000-0003-4866-8088) | 
-[arXiv](https://arxiv.org/search/?query=Alessandro+Lonardi&searchtype=author&abstracts=show&order=-announced_date_first&size=50) | 
-[Google Scholar](https://scholar.google.com/citations?user=KPLxOj0AAAAJ&hl=en&oi=ao) | 
+[Email](mailto:alessandro.lonardi.vr@gmail.com)
+[GitHub](https://github.com/aleable)
+[LinkedIn](https://www.linkedin.com/in/alonardi/)
+[ORCID](https://orcid.org/0000-0003-4866-8088)
+[arXiv](https://arxiv.org/search/?query=Alessandro+Lonardi&searchtype=author&abstracts=show&order=-announced_date_first&size=50)
+[Google Scholar](https://scholar.google.com/citations?user=KPLxOj0AAAAJ&hl=en&oi=ao)
 [Web of Science](https://www.webofscience.com/wos/author/record/GYA-1831-2022)
 
 <br/>

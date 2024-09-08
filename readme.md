@@ -1,10 +1,12 @@
 <style>
   .nice-button {
-    background-color: #d3d3d3;
+    background-color: #2865de;
     color: white;
     border: none;
     padding: 1px 2px;
     border-radius: 3px;
+    border-color: #d3d3d3;
+    text-color: #2865de;
     cursor: pointer;
     font-size: 16px;
   }
@@ -24,7 +26,8 @@ Avda. del Portal de l'Àngel, 40, Ciutat Vella, 08002 Bacelona, Spain
 
 <a href="../files/CV_Alessandro_Lonardi.pdf" download><b>CV</b></a> (with a full publication list, academic services, and extra resources for talks)<br/>
 <button type="button" class="nice-button">[Email](mailto:alessandro.lonardi.vr@gmail.com)</button>
-[GitHub](https://github.com/aleable)
+<a href="https://github.com/aleable"><button type="button" class="nice-button">GitHub</button>
+[GitHub](https://github.com/aleable)</a>
 [LinkedIn](https://www.linkedin.com/in/alonardi/)
 [ORCID](https://orcid.org/0000-0003-4866-8088)
 [arXiv](https://arxiv.org/search/?query=Alessandro+Lonardi&searchtype=author&abstracts=show&order=-announced_date_first&size=50)

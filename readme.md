@@ -2,7 +2,7 @@
 .nice-button {
     background-color: #f0f0f0;
     color: #2865de;
-    border: 1px solid #e8e8e8;
+    border: 1px solid #dfdfdf;
     padding: 1px 2px;
     border-radius: 3px;
     cursor: pointer;

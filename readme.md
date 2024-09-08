@@ -8,7 +8,7 @@ Avda. del Portal de l'Àngel, 40, Ciutat Vella, 08002 Bacelona, Spain
 <br/>
 
 <a href="../files/CV_Alessandro_Lonardi.pdf" download><b>CV</b></a> (with a full publication list, academic services, and extra resources for talks)<br/>
-[Email](mailto:alessandro.lonardi.vr@gmail.com)
+<button type="button">[Email](mailto:alessandro.lonardi.vr@gmail.com)</button>
 [GitHub](https://github.com/aleable)
 [LinkedIn](https://www.linkedin.com/in/alonardi/)
 [ORCID](https://orcid.org/0000-0003-4866-8088)

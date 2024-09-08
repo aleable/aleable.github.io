@@ -1,6 +1,6 @@
 <style>
   .nice-button {
-    background-color: #2865de;
+    background-color: #515151;
     color: white;
     border: none;
     padding: 1px 2px;

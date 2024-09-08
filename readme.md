@@ -1,3 +1,18 @@
+<style>
+  .nice-button {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 25px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  .no-bullet {
+  list-style-type: none;
+  }
+</style>
+
 <img src="./files/alessandro.jpg" alt="profile" width="40%"/>
 
 <p>
@@ -8,7 +23,7 @@ Avda. del Portal de l'Àngel, 40, Ciutat Vella, 08002 Bacelona, Spain
 <br/>
 
 <a href="../files/CV_Alessandro_Lonardi.pdf" download><b>CV</b></a> (with a full publication list, academic services, and extra resources for talks)<br/>
-<button type="button">[Email](mailto:alessandro.lonardi.vr@gmail.com)</button>
+<button type="button" class="nice-button">[Email](mailto:alessandro.lonardi.vr@gmail.com)</button>
 [GitHub](https://github.com/aleable)
 [LinkedIn](https://www.linkedin.com/in/alonardi/)
 [ORCID](https://orcid.org/0000-0003-4866-8088)

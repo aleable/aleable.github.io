@@ -16,11 +16,11 @@
     width: 40%;
     max-width: 100%;
     height: auto;
-    transition: width 0.5s ease; /* Smooth transition */
+    transition: width 0.3s ease; /* Smooth transition */
   }
 
   /* Media query for smaller screens */
-  @media (max-width: 768px) {
+  @media (max-width: 600px) {
     .responsive-image {
       width: 100%;
     }

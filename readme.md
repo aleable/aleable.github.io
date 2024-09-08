@@ -1,10 +1,10 @@
 <style>
   .nice-button {
-    background-color: #4CAF50;
+    background-color: #d3d3d3;
     color: white;
     border: none;
-    padding: 10px 20px;
-    border-radius: 25px;
+    padding: 1px 2px;
+    border-radius: 3px;
     cursor: pointer;
     font-size: 16px;
   }

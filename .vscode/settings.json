@@ -1,5 +1,4 @@
 {
-<<<<<<< HEAD
   "editor.minimap.enabled": false,
   "editor.wrappingIndent": "indent",
   "editor.overviewRulerBorder": false,
@@ -11,11 +10,6 @@
         "other": "on"
     }
   },
-  {
-  "markdown.styles": [
-    "/../assets/css/custom-markdown.css"
-  ]
-  },
   "files.defaultLanguage": "markdown",
   "files.exclude": {
     "**/node_modules": true
@@ -24,8 +18,8 @@
     "**/node_modules": true
   },
   "foam.edit.linkReferenceDefinitions": "off",
-  "foam.openDailyNote.directory": "journal",
-  "foam.openDailyNote.titleFormat": "fullDate",
+  "foam.openDailyNote.directory": "off",
+  "foam.openDailyNote.titleFormat": "off",
   "git.enableSmartCommit": true,
   "git.postCommitCommand": "sync",
   "markdown.preview.breaks": true,
@@ -33,7 +27,3 @@
   "pasteImage.showFilePathConfirmInputBox": true,
   "prettier.singleQuote": false,
 }
-=======
-    "cmake.configureOnOpen": true
-}
->>>>>>> 627102e325610436eb970da9ce32765b8351197a

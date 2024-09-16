@@ -14,11 +14,11 @@
 
 .tag-button {
     background-color: #b8cffc;
-    color: white;
-    border: 1px solid #2865de;
+    border: 1px solid #8eb3fa;
+    color: #515151;
+    cursor: auto;
     padding: 1px 2px;
     border-radius: 3px;
-    cursor: none;
     font-size: 16px;
   }
 
@@ -208,7 +208,7 @@ The last talk I gave is:
 
 <h1>Code</h1>
 
-Software supporting all publications.
+Software supporting all the publications I contributed to.
 
 * hypergraph-message-passing <button type="button" class="nice-button"><a href="https://github.com/nickruggeri/hypergraph-message-passing">GitHub</a></button>
 * MultiOT <button type="button" class="nice-button"><a href="https://github.com/cdebacco/MultiOT">GitHub</a></button>
@@ -217,5 +217,5 @@ Software supporting all publications.
 * N-STARK <button type="button" class="nice-button"><a href="https://github.com/aleable/N-STARK">GitHub</a></button>
 * McOpt <button type="button" class="nice-button"><a href="https://github.com/aleable/McOpt">GitHub</a></button>
 
-If you have any issues accessing the content of this website, please contact me.
+If you have any issues accessing the content of this website, please contact me.<br/>
 Last updated in September 2024.

@@ -208,7 +208,7 @@ The last talk I gave is:
 
 <h1>Code</h1>
 
-Software supporting all the publications I contributed to.
+Software I contributed to, supporting all the publications I having been involved in.
 
 * hypergraph-message-passing <button type="button" class="nice-button"><a href="https://github.com/nickruggeri/hypergraph-message-passing">GitHub</a></button>
 * MultiOT <button type="button" class="nice-button"><a href="https://github.com/cdebacco/MultiOT">GitHub</a></button>

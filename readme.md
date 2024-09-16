@@ -13,11 +13,12 @@
   }
 
 .tag-button {
-    background-color: #7da8ff;
+    background-color: #b8cffc;
     color: white;
     border: 1px solid #2865de;
     padding: 1px 2px;
     border-radius: 3px;
+    cursor: none;
     font-size: 16px;
   }
 

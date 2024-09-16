@@ -13,9 +13,9 @@
   }
 
 .tag-button {
-    background-color: #2884df;
+    background-color: #6e9fc4;
     color: white;
-    border: 1px solid #28a8df;
+    border: 1px solid #2884df;
     padding: 1px 2px;
     border-radius: 3px;
     font-size: 16px;
@@ -188,31 +188,33 @@ The last talk I gave is:
 <br/><ul class="no-bullet">
   <li><strong>Bilevel optimization for flow control in optimal transport network</strong><br/>
   Netsci 2023, Vienna, Austria (2023)<br/>
-  <button type="button" class="nice-button"><a href="https://aleable.github.io/files/lonardi2023bilopt.pdf">Abstract</a></button> <button type="button" class="nice-button"><a href="https://aleable.github.io/files/lonardi2023netscibilopt.pdf">Slides</a></button> <button type="button" class="tag-button">Contributed talk</button>
+  <button type="button" class="nice-button"><a href="https://aleable.github.io/files/lonardi2023bilopt.pdf">Abstract</a></button> <button type="button" class="nice-button"><a href="https://aleable.github.io/files/lonardi2023netscibilopt.pdf">Slides</a></button> <button type="button" class="tag-button">Contributed talk</button></li>
 </ul>
 
 <ul class="no-bullet">
   <li><strong>Infrastructure adaptation and emergence of loops in network routing with time-dependent loads</strong><br/>
   Netsci 2023 Satellite, Networks & cities, Vienna, Austria (2023)<br/>
-  <button type="button" class="nice-button"><a href="https://aleable.github.io/files/lonardi2023tvf.pdf">Abstract</a></button> <button type="button" class="nice-button"><a href="https://aleable.github.io/files/lonardi2023netscitvf.pdf">Slides</a></button> <button type="button" class="tag-button">Contributed talk</button>
+  <button type="button" class="nice-button"><a href="https://aleable.github.io/files/lonardi2023tvf.pdf">Abstract</a></button> <button type="button" class="nice-button"><a href="https://aleable.github.io/files/lonardi2023netscitvf.pdf">Slides</a></button> <button type="button" class="tag-button">Contributed talk</button></li>
 </ul>
 
 <ul class="no-bullet">
   <li><strong>Optimal transport in networks for design and flux optimization</strong><br/>
   NetPLACE Seminars, online (2023)<br/>
-  <button type="button" class="nice-button"><a href="https://aleable.github.io/files/lonardi2023netplace.pdf">Slides</a></button> <button type="button" class="nice-button"><a href="https://www.youtube.com/watch?v=8MzMNxqc4D0&ab_channel=NetPLACE">Video</a></button> <button type="button" class="tag-button">Contributed talk</button>
+  <button type="button" class="nice-button"><a href="https://aleable.github.io/files/lonardi2023netplace.pdf">Slides</a></button> <button type="button" class="nice-button"><a href="https://www.youtube.com/watch?v=8MzMNxqc4D0&ab_channel=NetPLACE">Video</a></button> <button type="button" class="tag-button">Contributed talk</button></li>
 </ul>
 
 </details>
 
 <h1>Code</h1>
 
-* <tt>hypergraph-message-passing</tt> <button type="button" class="nice-button"><a href="https://github.com/nickruggeri/hypergraph-message-passing">GitHub</a></button>
-* <tt>MultiOT</tt> <button type="button" class="nice-button"><a href="https://github.com/cdebacco/MultiOT">GitHub</a></button>
-* <tt>BROT</tt> <button type="button" class="nice-button"><a href="https://github.com/aleable/BROT">GitHub</a></button>
-* <tt>MODI</tt> <button type="button" class="nice-button"><a href="https://github.com/aleable/MODI">GitHub</a></button> <button type="button" class="nice-button"><a href="https://pypi.org/project/modi-flows/">pipy</a></button>
-* <tt>N-STARK</tt> <button type="button" class="nice-button"><a href="https://github.com/aleable/N-STARK">GitHub</a></button>
-* <tt>McOpt</tt> <button type="button" class="nice-button"><a href="https://github.com/aleable/McOpt">GitHub</a></button>
+Software supporting all publications.
+
+* hypergraph-message-passing <button type="button" class="nice-button"><a href="https://github.com/nickruggeri/hypergraph-message-passing">GitHub</a></button>
+* MultiOT <button type="button" class="nice-button"><a href="https://github.com/cdebacco/MultiOT">GitHub</a></button>
+* BROT <button type="button" class="nice-button"><a href="https://github.com/aleable/BROT">GitHub</a></button>
+* MODI <button type="button" class="nice-button"><a href="https://github.com/aleable/MODI">GitHub</a></button> <button type="button" class="nice-button"><a href="https://pypi.org/project/modi-flows/">pipy</a></button>
+* N-STARK <button type="button" class="nice-button"><a href="https://github.com/aleable/N-STARK">GitHub</a></button>
+* McOpt <button type="button" class="nice-button"><a href="https://github.com/aleable/McOpt">GitHub</a></button>
 
 If you have any issues accessing the content of this website, please contact me.
 Last updated in September 2024.

@@ -13,9 +13,9 @@
   }
 
 .tag-button {
-    background-color: #6e9fc4;
+    background-color: #7da8ff;
     color: white;
-    border: 1px solid #2884df;
+    border: 1px solid #2865de;
     padding: 1px 2px;
     border-radius: 3px;
     font-size: 16px;

@@ -12,6 +12,15 @@
   list-style-type: none;
   }
 
+.tag-button {
+    background-color: #2884df;
+    color: white;
+    border: 1px solid #28a8df;
+    padding: 1px 2px;
+    border-radius: 3px;
+    font-size: 16px;
+  }
+
   .responsive-image {
     width: 40%;
     max-width: 100%;
@@ -36,7 +45,7 @@ Avda. del Portal de l'Àngel, 40, Ciutat Vella, 08002 Bacelona, Spain
 </p>
 <br/>
 
-<button type="button" class="nice-button"><a href="../files/CV_Alessandro_Lonardi.pdf" download><b>CV</b></a></button> (with a full publication list, academic services, and extra resources for talks)<br/>
+<button type="button" class="nice-button"><a href="../files/CV_Alessandro_Lonardi.pdf" download><b>CV</b></a></button> (3 pages, following [DORA](https://sfdora.org/read/))<br/>
 <button type="button" class="nice-button">[Email](mailto:alessandro.lonardi.vr@gmail.com)</button>
 <button type="button" class="nice-button">[GitHub](https://github.com/aleable)</button>
 <button type="button" class="nice-button">[LinkedIn](https://www.linkedin.com/in/alonardi/)</button>
@@ -97,7 +106,7 @@ The last publication I contributed to is:
   <li><strong>Cohesive urban bicycle infrastructure design through optimal transport routing in multilayer networks</strong><br/>
   Alessandro Lonardi, Michael Szell, Caterina De Bacco<br/>
   Under review<br/>
-  <button type="button" class="nice-button"><a href="https://arxiv.org/abs/2405.02052">arXiv</a></button> <button type="button" class="nice-button"><a href="https://github.com/cdebacco/MultiOT">GitHub</a></button></li>
+  <button type="button" class="nice-button"><a href="https://arxiv.org/abs/2405.02052">arXiv</a></button> <button type="button" class="nice-button"><a href="https://github.com/cdebacco/MultiOT">GitHub</a></button> <button type="button" class="tag-button">Preprint</button></li>
 </ul>
 
 <details>
@@ -107,59 +116,103 @@ The last publication I contributed to is:
   <li><strong>Designing Networks with Adaptation Rules and Optimal Transport</strong><br/>
   Alessandro Lonardi<br/>
   University of Tübingen (2024)<br/>
-  <button type="button" class="nice-button"><a href="https://publikationen.uni-tuebingen.de/xmlui/handle/10900/153202?locale-attribute=en">PhD thesis</a></button></li>
+  <button type="button" class="nice-button"><a href="https://publikationen.uni-tuebingen.de/xmlui/handle/10900/153202?locale-attribute=en">PhD thesis</a></button> <button type="button" class="tag-button">Thesis</button></li>
 </ul>
 
 <ul class="no-bullet">
   <li><strong>Message-Passing on Hypergraphs: Detectability, Phase Transitions, and Higher-Order Information</strong><br/>
   Nicolò Ruggeri*, Alessandro Lonardi*, Caterina De Bacco<br/>
   Journal of Statistical Mechanics: Theory and Experiment (4), 043403 (2024)<br/>
-  <button type="button" class="nice-button"><a href="https://iopscience.iop.org/article/10.1088/1742-5468/ad343b">Paper</a></button> <button type="button" class="nice-button"><a href="https://arxiv.org/abs/2312.00708">arXiv</a></button> <button type="button" class="nice-button"><a href="https://github.com/nickruggeri/hypergraph-message-passing">GitHub</a></button> <button type="button" class="nice-button"><a href="https://www.treedom.net/en/user/nicolo-ruggeri-7568/trees/ZMG-8DNK">CO₂ compensation</a></button></li>
+  <button type="button" class="nice-button"><a href="https://iopscience.iop.org/article/10.1088/1742-5468/ad343b">Paper</a></button> <button type="button" class="nice-button"><a href="https://arxiv.org/abs/2312.00708">arXiv</a></button> <button type="button" class="nice-button"><a href="https://github.com/nickruggeri/hypergraph-message-passing">GitHub</a></button> <button type="button" class="nice-button"><a href="https://www.treedom.net/en/user/nicolo-ruggeri-7568/trees/ZMG-8DNK">CO₂ compensation</a></button> <button type="button" class="tag-button">Journal paper</button></li>
 </ul>
 
 <ul class="no-bullet">
   <li><strong>Bilevel Optimization for Traffic Mitigation in Optimal Transport Networks</strong><br/>
   Alessandro Lonardi, Caterina De Bacco<br/>
   Physical Review Letters 131, 267401 (2023)<br/>
-  <button type="button" class="nice-button"><a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.131.267401">Paper</a></button> <button type="button" class="nice-button"><a href="https://arxiv.org/abs/2306.16246">arXiv</a></button> <button type="button" class="nice-button"><a href="https://github.com/aleable/BROT">GitHub</a></button></li>
+  <button type="button" class="nice-button"><a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.131.267401">Paper</a></button> <button type="button" class="nice-button"><a href="https://arxiv.org/abs/2306.16246">arXiv</a></button> <button type="button" class="nice-button"><a href="https://github.com/aleable/BROT">GitHub</a></button> <button type="button" class="tag-button">Journal paper</button></li>
 </ul>
 
 <ul class="no-bullet">
   <li><strong>Immiscible Color Flows in Optimal Transport Networks for Image Classification</strong><br/>
   Alessandro Lonardi*, Diego Baptista*, Caterina De Bacco<br/>
   Frontiers in Physics 11:1089114 (2023)<br/>
-  <button type="button" class="nice-button"><a href="https://www.frontiersin.org/articles/10.3389/fphy.2023.1089114/abstract">Paper</a></button> <button type="button" class="nice-button"><a href="https://arxiv.org/abs/2205.02938">arXiv</a></button> <button type="button" class="nice-button"><a href="https://github.com/aleable/MODI">GitHub</a></button> <button type="button" class="nice-button"><a href="https://github.com/aleable/MODI/blob/main/misc/POSTER_MODI.pdf">Poster</a></button> <button type="button" class="nice-button"><a href="https://www.treedom.net/en/page/register?id=49Z-KEWX">CO₂ compensation</a></button></li>
+  <button type="button" class="nice-button"><a href="https://www.frontiersin.org/articles/10.3389/fphy.2023.1089114/abstract">Paper</a></button> <button type="button" class="nice-button"><a href="https://arxiv.org/abs/2205.02938">arXiv</a></button> <button type="button" class="nice-button"><a href="https://github.com/aleable/MODI">GitHub</a></button> <button type="button" class="nice-button"><a href="https://github.com/aleable/MODI/blob/main/misc/POSTER_MODI.pdf">Poster</a></button> <button type="button" class="nice-button"><a href="https://www.treedom.net/en/page/register?id=49Z-KEWX">CO₂ compensation</a></button> <button type="button" class="tag-button">Journal paper</button></li>
 </ul>
 
 <ul class="no-bullet">
   <li><strong>Infrastructure adaptation and emergence of loops in network routing with time-dependent loads</strong><br/>
   Alessandro Lonardi, Enrico Facca, Mario Putti, Caterina De Bacco<br/>
   Physical Review E 107, 024302 (2023)<br/>
-  <button type="button" class="nice-button"><a href="https://journals.aps.org/pre/abstract/10.1103/PhysRevE.107.024302">Paper</a></button> <button type="button" class="nice-button"><a href="https://arxiv.org/abs/2112.10620">arXiv</a></button> <button type="button" class="nice-button"><a href="https://github.com/aleable/N-STARK">GitHub</a></button></li>
+  <button type="button" class="nice-button"><a href="https://journals.aps.org/pre/abstract/10.1103/PhysRevE.107.024302">Paper</a></button> <button type="button" class="nice-button"><a href="https://arxiv.org/abs/2112.10620">arXiv</a></button> <button type="button" class="nice-button"><a href="https://github.com/aleable/N-STARK">GitHub</a></button> <button type="button" class="tag-button">Journal paper</button></li>
 </ul>
 
 <ul class="no-bullet">
   <li><strong>Multicommodity routing optimization for engineering networks</strong><br/>
   Alessandro Lonardi, Mario Putti, Caterina De Bacco<br/>
   Scientific Reports 12, 7474 (2022)<br/>
-  <button type="button" class="nice-button"><a href="https://www.nature.com/articles/s41598-022-11348-9">Paper</a></button> <button type="button" class="nice-button"><a href="https://arxiv.org/abs/2110.06171">arXiv</a></button> <button type="button" class="nice-button"><a href="https://github.com/aleable/McOpt">GitHub</a></button></li>
+  <button type="button" class="nice-button"><a href="https://www.nature.com/articles/s41598-022-11348-9">Paper</a></button> <button type="button" class="nice-button"><a href="https://arxiv.org/abs/2110.06171">arXiv</a></button> <button type="button" class="nice-button"><a href="https://github.com/aleable/McOpt">GitHub</a></button> <button type="button" class="tag-button">Journal paper</button></li>
 </ul>
 
 <ul class="no-bullet">
   <li><strong>Optimal Transport in Multilayer Networks for Traffic Flow Optimization</strong><br/>
   Abdullahi Adinoyi Ibrahim, Alessandro Lonardi, Caterina De Bacco<br/>
   Algorithms, 14(7), 189 (2021)<br/>
-  <button type="button" class="nice-button"><a href="https://www.mdpi.com/1999-4893/14/7/189">Paper</a></button> <button type="button" class="nice-button"><a href="https://arxiv.org/abs/2106.07202">arXiv</a></button> <button type="button" class="nice-button"><a href="https://github.com/cdebacco/MultiOT">GitHub</a></button></li>
+  <button type="button" class="nice-button"><a href="https://www.mdpi.com/1999-4893/14/7/189">Paper</a></button> <button type="button" class="nice-button"><a href="https://arxiv.org/abs/2106.07202">arXiv</a></button> <button type="button" class="nice-button"><a href="https://github.com/cdebacco/MultiOT">GitHub</a></button> <button type="button" class="tag-button">Journal paper</button></li>
 </ul>
 
 <ul class="no-bullet">
   <li><strong>Designing optimal networks for multicommodity transport problem</strong><br/>
   Alessandro Lonardi, Enrico Facca, Mario Putti, Caterina De Bacco<br/>
   Physical Review Research 3, 043010 (2021)<br/>
-  <button type="button" class="nice-button"><a href="https://link.aps.org/doi/10.1103/PhysRevResearch.3.043010">Paper</a></button> <button type="button" class="nice-button"><a href="https://arxiv.org/abs/2010.14377">arXiv</a></button> <button type="button" class="nice-button"><a href="https://github.com/aleable/McOpt">GitHub</a></button></li>
+  <button type="button" class="nice-button"><a href="https://link.aps.org/doi/10.1103/PhysRevResearch.3.043010">Paper</a></button> <button type="button" class="nice-button"><a href="https://arxiv.org/abs/2010.14377">arXiv</a></button> <button type="button" class="nice-button"><a href="https://github.com/aleable/McOpt">GitHub</a></button> <button type="button" class="tag-button">Journal paper</button></li>
 </ul>
 
 </details>
 
-<br/>
+<h1>Talks</h1>
+
+In reverse chronological order.
+
+The last talk I gave is:
+
+<ul class="no-bullet">
+  <li><strong>Bilevel optimization for flow control in optimal transport network</strong><br/>
+  Research Seminar on Mathematical Optimization, Saarland University, Germany - online (2024)<br/>
+  <button type="button" class="nice-button"><a href="https://aleable.github.io/files/lonardi2024mop.pdf">Slides</a></button> <button type="button" class="tag-button">Invited talk</button></li>
+</ul>
+
+<details>
+<summary><b>Toggle all talks</b></summary>
+
+<br/><ul class="no-bullet">
+  <li><strong>Bilevel optimization for flow control in optimal transport network</strong><br/>
+  Netsci 2023, Vienna, Austria (2023)<br/>
+  <button type="button" class="nice-button"><a href="https://aleable.github.io/files/lonardi2023bilopt.pdf">Abstract</a></button> <button type="button" class="nice-button"><a href="https://aleable.github.io/files/lonardi2023netscibilopt.pdf">Slides</a></button> <button type="button" class="tag-button">Contributed talk</button>
+</ul>
+
+<ul class="no-bullet">
+  <li><strong>Infrastructure adaptation and emergence of loops in network routing with time-dependent loads</strong><br/>
+  Netsci 2023 Satellite, Networks & cities, Vienna, Austria (2023)<br/>
+  <button type="button" class="nice-button"><a href="https://aleable.github.io/files/lonardi2023tvf.pdf">Abstract</a></button> <button type="button" class="nice-button"><a href="https://aleable.github.io/files/lonardi2023netscitvf.pdf">Slides</a></button> <button type="button" class="tag-button">Contributed talk</button>
+</ul>
+
+<ul class="no-bullet">
+  <li><strong>Optimal transport in networks for design and flux optimization</strong><br/>
+  NetPLACE Seminars, online (2023)<br/>
+  <button type="button" class="nice-button"><a href="https://aleable.github.io/files/lonardi2023netplace.pdf">Slides</a></button> <button type="button" class="nice-button"><a href="https://www.youtube.com/watch?v=8MzMNxqc4D0&ab_channel=NetPLACE">Video</a></button> <button type="button" class="tag-button">Contributed talk</button>
+</ul>
+
+</details>
+
+<h1>Code</h1>
+
+* <tt>hypergraph-message-passing</tt> <button type="button" class="nice-button"><a href="https://github.com/nickruggeri/hypergraph-message-passing">GitHub</a></button>
+* <tt>MultiOT</tt> <button type="button" class="nice-button"><a href="https://github.com/cdebacco/MultiOT">GitHub</a></button>
+* <tt>BROT</tt> <button type="button" class="nice-button"><a href="https://github.com/aleable/BROT">GitHub</a></button>
+* <tt>MODI</tt> <button type="button" class="nice-button"><a href="https://github.com/aleable/MODI">GitHub</a></button> <button type="button" class="nice-button"><a href="https://pypi.org/project/modi-flows/">pipy</a></button>
+* <tt>N-STARK</tt> <button type="button" class="nice-button"><a href="https://github.com/aleable/N-STARK">GitHub</a></button>
+* <tt>McOpt</tt> <button type="button" class="nice-button"><a href="https://github.com/aleable/McOpt">GitHub</a></button>
+
+If you have any issues accessing the content of this website, please contact me.
 Last updated in September 2024.

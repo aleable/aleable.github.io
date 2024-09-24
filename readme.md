@@ -49,11 +49,11 @@ Avda. del Portal de l'Àngel, 40, Ciutat Vella, 08002 Bacelona, Spain
 <button type="button" class="nice-button"><a href="../files/CV_Alessandro_Lonardi.pdf" download><b>CV</b></a></button> (3 pages, following [DORA](https://sfdora.org/read/))<br/>
 <button type="button" class="nice-button">[Email](mailto:alessandro.lonardi.vr@gmail.com)</button>
 <button type="button" class="nice-button">[GitHub](https://github.com/aleable)</button>
-<button type="button" class="nice-button">[LinkedIn](https://www.linkedin.com/in/alonardi/)</button>
-<button type="button" class="nice-button">[ORCID](https://orcid.org/0000-0003-4866-8088)</button>
 <button type="button" class="nice-button">[arXiv](https://arxiv.org/search/?query=Alessandro+Lonardi&searchtype=author&abstracts=show&order=-announced_date_first&size=50)</button>
 <button type="button" class="nice-button">[Google Scholar](https://scholar.google.com/citations?user=KPLxOj0AAAAJ&hl=en&oi=ao)</button>
-<button type="button" class="nice-button">[Web of Science](https://www.webofscience.com/wos/author/record/GYA-1831-2022)</button>
+<button type="button" class="nice-button">[ORCID](https://orcid.org/0000-0003-4866-8088)</button>
+<button type="button" class="nice-button">[Bsky](https://bsky.app/profile/aleable.bsky.social)</button>
+<button type="button" class="nice-button">[LinkedIn](https://www.linkedin.com/in/alonardi/)</button>
 
 <br/>
 I am Alessandro Lonardi, a Research Intern at <a href="https://ai.sony/">Sony AI</a> in Barcelona, Spain. Before that, I was a PhD student at the <a href="https://is.mpg.de/">Max Planck Institute for Intelligent Systems</a> in Tübingen, Germany. I did my PhD under the supervision of <a href="https://cdebacco.com/">Caterina De Bacco</a> in the <a href="https://is.mpg.de/employees?_=1598796063852&action=index&controller=employees&departments=pio&query=&utf8=\%E2\%9C\%93">Physics for Inference and Optimization group</a>. My PhD was supported by the <a href="https://imprs.is.mpg.de">International Max Planck Research School for Intelligent Systems</a> (IMPRS-IS), which is part of the <a href="https://cyber-valley.de/en">Cyber Valley</a> initiative. I obtained my Master's in Mathematical Engineering at the <a href="https://www.unipd.it/en/">University of Padova</a> in Padua, Italy. There, I also got my Bachelor's in Physics.

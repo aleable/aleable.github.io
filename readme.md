@@ -61,7 +61,7 @@ I am Alessandro Lonardi, a Research Intern at <a href="https://ai.sony/">Sony AI
 <h1>Research</h1>
 
 My research focuses on modeling complex systems, with a strong interest in statistical inference, generative models, and optimization methods. I like working at the interface between physics and computer science by developing mathematical models inspired by statistical physics and implementing them in robust, scalable algorithms.
-I truly enjoy technical work, but I believe that empirical observations should always drive scientific inquiry. The applications that interest me most lie within AI for science, where inferential predictions and mechanistic models can mutually inform each other.
+I truly enjoy technical work, but I believe that empirical observations should always drive scientific inquiry. The applications that interest me most lie within machine learning for science, where inferential predictions and mechanistic models can mutually inform each other.
 
 Through my research and professional efforts, I aim to contribute to creating a fairer and more just world. One way to achieve this goal that matters to me is integrating science into policymaking to develop sustainable and equitable societies and cities where cohesive social ties prevail. As a scientist, I am also responsible for emphasizing that climate change is human-made and dangerous and taking action against it.
 

@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Alessandro Lonardi | Home</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" integrity="sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.9.4/css/academicons.min.css" integrity="sha512-IW0nhlW5MgNydsXJO40En2EoCkTTjZhI3yuODrZIc8cQ4h1XcF53PsqDHa09NqnkXuIe0Oiyyj171BqZFwISBw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <style>
+        .toggle-news {
+            cursor: pointer;
+            color: #1a73e8;
+            margin-top: 0;
+            margin-bottom: 0;
+        }
+        #older-news {
+            display: none;
+            margin-top: 0;
+            margin-bottom: 0;
+        }
+    </style>
+</head>
+<body>
+    <nav>
+        <div>
+            <a href="index.html">Home</a>
+            <a href="publications.html">Publications</a>
+            <a href="talks.html">Talks</a>
+            <a href="code.html">Code</a>
+        </div>
+    </nav>
+
+    <div class="page">
+        <div class="container">
+            <div class="center">
+                <img src="files/profile_photo.jpg" alt="profile" class="responsive-image" />
+            </div>
+            <div class="contact-info">
+                <h3>Alessandro Lonardi</h3>
+                Research Intern, Sony AI
+                <p>
+                    <a href="mailto:alessandro.lonardi.vr@gmail.com"><i class="fas fa-envelope"></i></a>
+                    <a href="https://github.com/aleable"><i class="fab fa-github"></i></a>
+                    <a href="https://arxiv.org/search/?query=Alessandro+Lonardi&searchtype=author&abstracts=show&order=-announced_date_first&size=50"><i class="ai ai-arxiv"></i></a>
+                    <a href="https://scholar.google.com/citations?user=KPLxOj0AAAAJ&hl=en&oi=ao"><i class="ai ai-google-scholar"></i></a>
+                    <a href="https://orcid.org/0000-0003-4866-8088"><i class="fab fa-orcid"></i></a>
+                    <a href="https://bsky.app/profile/aleable.bsky.social"><img src="files/bluesky.svg" class="bluesky-icon"></a>
+                    <a href="https://www.linkedin.com/in/alonardi/"><i class="fab fa-linkedin"></i></a>
+                </p>
+            </div>
+            
+            <div class="content">
+                <h2>About me</h2>
+                <p>
+                    I am a Research Intern at <a href="https://ai.sony/">Sony AI</a>. Before that, I was a PhD student at the <a href="https://is.mpg.de/">Max Planck Institute for Intelligent Systems</a>, where I did my PhD under the supervision of <a href="https://cdebacco.com/">Caterina De Bacco</a>. My PhD was supported by the <a href="https://imprs.is.mpg.de">International Max Planck Research School for Intelligent Systems</a>. I obtained my Master's in Mathematical Engineering at the <a href="https://www.unipd.it/en/">University of Padova</a>. There, I also got my Bachelor's in Physics.
+                </p>
+                <h2>Research</h2>
+                <p>
+                    My research focuses on networks, machine learning, and scientific problems that combine the two. I am particularly passionate about sociotechnical research, addressing the relationship between society and technology, where my work aims to inform policymakers in building purpose-driven solutions for equitable societies. While I enjoy technical work involving algorithms and mathematical modeling, I believe empirical observations should always drive research. Therefore, I always put data first, training algorithms to make predictions, uncovering and interpreting their hidden patterns, and solving optimization problems arising from them. For more, see <a href="publications.html">my publications</a>.</p>
+                <h2>News</h2>
+                <ul>
+                    <li><b>Jul 1, 2024:</b> I am joining <a href="https://ai.sony/">Sony AI</a> in Barcelona to work on scientific hypothesis generation.</li>
+                    <li><b>May 1, 2024:</b> A new preprint <a href="https://arxiv.org/abs/2405.02052">Cohesive urban bicycle infrastructure design through optimal transport routing in multilayer networks</a> is on the arXiv.</li>
+                    <li><b>Apr 26, 2024:</b> I defended <a href="https://publikationen.uni-tuebingen.de/xmlui/handle/10900/153202?locale-attribute=en">my PhD thesis</a>!</li>
+                    <li><b>Apr 24, 2024:</b> Our paper  <a href="https://iopscience.iop.org/article/10.1088/1742-5468/ad343b">Message-Passing on Hypergraphs: Detectability, Phase Transitions, and Higher-Order Information</a> is in Journal of Statistical Mechanics: Theory and Experiment. Here a <a href="https://www.linkedin.com/feed/update/urn:li:activity:7188845420196884480/">tl;dr summary</a> of the paper.</li>
+                    <li><b>Apr 6, 2024:</b> I gave the talk <a href="https://aleable.github.io/files/lonardi2024mop.pdf">Bilevel optimization for traffic mitigation in optimal transport networks</a>, at the <a href="https://www.mop.uni-saarland.de/teaching/MOPResearchSeminar/index.shtml">Research Seminar on Mathematical Optimization</a> of the Mathematical Optimization for Data Science Group at Saarbrücken University, Germany.</li>
+                    <li><b>Dec 26, 2023:</b> Our paper <a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.131.267401">Bilevel Optimization for Traffic Mitigation in Optimal Transport Networks</a> is in Physical Review Letters!</li>
+                    <li><a class="toggle-news" onclick="toggleOlderNews()"><b>Show older news</b></a></li>
+                </ul>
+                <ul id="older-news">
+                    <li><b>Dec 1, 2023:</b> A new preprint is online: <a href="https://arxiv.org/abs/2312.00708">Message-Passing on Hypergraphs: Detectability, Phase Transitions, and Higher-Order Information</a>. As a symbolic compensation for the emissions generated by our numerical experiments, <a href="https://nickruggeri.github.io/">Nick</a> and I planted a <a href="https://www.treedom.net/en/user/nicolo-ruggeri-7568/trees/ZMG-8DNK">Hyper Mango</a> 🥭.</li>
+                    <li><b>Oct 9, 2023:</b> I do not use Twitter anymore. My social media profile is now <a href="https://www.linkedin.com/in/alonardi/">@alonardi</a> on LinkedIn.</li>
+                    <li><b>Jun 28, 2023:</b> A new preprint is online: <a href="https://arxiv.org/abs/2306.16246">Bilevel Optimization for Traffic Mitigation in Optimal Transport Networks</a>.</li>
+                    <li><b>Jul, 2023:</b> Two talks at <a href="https://netsci2023.wixsite.com/netsci2023">Netsci 2023</a>: Infrastructure adaptation and emergence of loops in network routing with time-dependent loads and Bilevel optimization for flow control in optimal transport networks.</li>
+                    <li><b>Mar 9, 2023:</b> I gave a talk for the <a href="https://sites.google.com/view/netplace/home-page">NetPLACE Seminars</a> series.</li>
+                    <li><b>Feb 3, 2023:</b> Our work <a href="https://journals.aps.org/pre/abstract/10.1103/PhysRevE.107.024302">Infrastructure adaptation and emergence of loops in network routing with time-dependent loads</a> is in Physical Review E!</li>
+                    <li><b>Jan 20, 2023:</b> Our work <a href="https://www.frontiersin.org/articles/10.3389/fphy.2023.1089114/abstract">Immiscible Color Flows in Optimal Transport Networks for Image Classification</a> is in Frontiers in Physics! As a symbolic compensation for the emissions generated by our numerical experiments, <a href="https://diegoabt.github.io/">Diego</a> and I planted a <a href="https://www.treedom.net/en/page/register?id=49Z-KEWX">cocoa tree</a> 🌿.</li>
+                    <li><b>May 6, 2022:</b> Our work <a href="https://www.nature.com/articles/s41598-022-11348-9">Multicommodity routing optimization for engineering networks</a> is in Scientific Reports!</li>
+                    <li><b>May 4, 2022:</b> A new preprint is online: Immiscible Color Flows in Optimal Transport Networks for Image Classification.</li>
+                    <li><b>Dec 21, 2021:</b> A new preprint is online: Infrastructure adaptation and emergence of loops in network routing with time-dependent loads.</li>
+                    <li><b>Oct 13, 2021 - Feb 11, 2022:</b> I am a teaching assistant for the course of <a href="https://github.com/APMLA-2021/APMLA-WS_21-22_material">Advanced Probabilistic Machine Learning and Applications (2022)</a>, at <a href="https://uni-tuebingen.de/universitaet/">University of Tübingen</a>.</li>
+                    <li><b>Oct 4, 2021:</b> Our work <a href="https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.043010">Designing optimal networks for multicommodity transport problem</a> is in Physical Review Research!</li>
+                    <li><b>Jul 14, 2021:</b> Our work <a href="https://www.mdpi.com/1999-4893/14/7/189">Optimal Transport in Multilayer Networks for Traffic Flow Optimization</a> has just been published.</li>
+                    <li><b>Apr 19, 2021 - July 31, 2021:</b> I was a teaching assistant for the course Advanced Probabilistic Machine Learning and Applications (2021), at <a href="https://uni-tuebingen.de/universitaet/">University of Tübingen</a>.</li>
+                    <li><b>Feb 12, 2021:</b> I joined the <a href="https://imprs.is.mpg.de">International Max Planck Research School for Intelligent Systems</a>!</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <footer>
+        Last updated in December 2024
+    </footer>
+
+    <script>
+        function toggleOlderNews() {
+            var olderNews = document.getElementById('older-news');
+            var toggleLinks = document.getElementsByClassName('toggle-news');
+            
+            if (olderNews.style.display === 'none' || olderNews.style.display === '') {
+                olderNews.style.display = 'block';
+                toggleLinks[0].innerHTML = '<b>Hide older news</b>';
+            } else {
+                olderNews.style.display = 'none';
+                toggleLinks[0].innerHTML = '<b>Show older news</b>';
+            }
+        }
+    </script>
+</body>
+</html>

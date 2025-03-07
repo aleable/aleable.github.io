@@ -3,6 +3,10 @@
     --max-width-percentage: 100%;
 }
 
+footer::after {
+    content: "Last updated in March 2025";
+}
+
 body {
     font-family: Arial, Helvetica, sans-serif;
     margin: 0;
@@ -10,7 +14,7 @@ body {
     padding: 0;
     line-height: 1.5;
     color: #515151;
-    background-color: #f8f8f5;
+    background-color: white;
     display: flex;
     flex-direction: column;
     min-height: 100vh;
@@ -25,7 +29,7 @@ body {
 }
 
 footer {
-    background: #f8f8f5;
+    background: white;
     color: #515151;
     padding: 0.5em 0;
     display: flex;
@@ -48,7 +52,7 @@ ol {
 
 
 nav {
-    background: #f8f8f5;
+    background: white;
     color: #515151;
     padding: 0.5em 0;
     display: flex;
@@ -103,7 +107,7 @@ nav a:hover {
     max-width: 80%;
     height: auto;
     transition: width 0.3s ease;
-    border-radius: 1%;
+    border-radius: 5px;
     margin-bottom: 1em;
 }
 

@@ -8,27 +8,6 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.9.4/css/academicons.min.css" integrity="sha512-IW0nhlW5MgNydsXJO40En2EoCkTTjZhI3yuODrZIc8cQ4h1XcF53PsqDHa09NqnkXuIe0Oiyyj171BqZFwISBw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <link rel="stylesheet" href="style.css">
     <style>
-        :root {
-            --page-size: 800px;
-            --max-width-percentage: 100%;
-            --button-bg-color: rgb(60, 134, 230);
-            --button-text-color: white;
-            --button-hover-bg-color: rgb(26, 115, 232);
-        }
-
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            height: 100%;
-            padding: 0;
-            line-height: 1.5;
-            color: #515151;
-            background-color: white;
-            display: flex;
-            flex-direction: column;
-            min-height: 100vh;
-            align-items: center;
-        }
 
         .page {
             width: 100%;
@@ -37,121 +16,6 @@
             margin-bottom: 0em;
         }
 
-        nav {
-            background: white;
-            color: #515151;
-            padding: 0.5em 0;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            border-bottom: 1.0px solid #cecece;
-            border-left: none;
-            border-right: none;
-            width: var(--max-width-percentage);
-            max-width: var(--page-size);
-            margin: 0 auto;
-            box-sizing: border-box;
-            position: sticky;
-            top: 0;
-            z-index: 10;
-        }
-
-        nav a {
-            color: rgb(26, 115, 232);
-            text-decoration: none;
-            margin: 0 1em;
-        }
-
-        nav a:hover {
-            text-decoration: underline;
-        }
-
-        .container {
-            flex-grow: 1;
-            padding: 1.05em;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            flex-direction: column;
-            margin-bottom: 0em;
-        }
-
-        .content-pub {
-            width: 100%;
-            max-width: var(--page-size);
-        }
-
-        .content-pub h2 {
-            margin-bottom: 0.2em;
-            margin-top: 0.5em;
-        }
-
-        li {
-            margin-top: 0.2em;
-            margin-bottom: 0.5em;
-            align-items: center;
-            gap: 0.5rem;
-            flex-wrap: wrap;
-        }
-
-        ul {
-            margin-top: 0;
-            margin-bottom: 0;
-        }
-
-        li {
-            margin-top: 0.2em;
-            margin-bottom: 0.2em;
-        }
-
-        .code-name {
-            font-weight: bold;
-            margin-right: 0.5rem;
-        }
-
-        .publication-links {
-            display: flex;
-            gap: 0.5rem;
-            flex-wrap: wrap;
-        }
-
-        .publication-btn {
-            display: inline-block;
-            padding: 0.1rem 0.3rem;
-            margin-left: 0.1rem;
-            background-color: var(--button-bg-color);
-            color: var(--button-text-color);
-            border-color: var(--button-text-color);
-            text-decoration: none;
-            border-radius: 3px;
-            font-size: 0.9rem;
-            transition: background-color 0.0s ease;
-            cursor: pointer;
-        }
-
-        a {
-            color: rgb(26, 115, 232);
-            text-decoration: none;
-            margin: 0 0em;
-        }
-
-        a:hover {
-            text-decoration: underline;
-        }
-
-        footer {
-            background: white;
-            color: #515151;
-            padding: 0.5em 0;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            border-top: 1.0px solid #cecece;
-            width: var(--max-width-percentage);
-            max-width: var(--page-size);
-            box-sizing: border-box;
-            margin-top: auto;
-        }
     </style>
 </head>
 <body>
@@ -166,7 +30,7 @@
 
     <div class="page">
         <div class="container">
-            <div class="content-pub">
+            <div class="content">
                 Software I contributed to, supporting my publications.
                 <h2>Code</h2>
                 <ul>

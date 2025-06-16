@@ -55,14 +55,14 @@ footer {
 ol {
     margin-top: 0.0em;
     margin-bottom: 0.0em;
-    margin: 0;
+    margin-left: 1.5em;
     padding: 0;
 }
     
 li {
     margin-top: 0.0em;
     margin-bottom: 0.0em;
-    margin-left: 0.3%;
+    margin-left: 0em;
     padding: 0;
 }
 
@@ -165,7 +165,7 @@ content {
 ul {
     margin-top: 0;
     margin-bottom: 0;
-    margin: 0;
+    margin-left: 1.5em;
     padding: 0;
 }
 

@@ -6,7 +6,11 @@
 }
 
 footer::after {
-    content: "Last updated in March 2025";
+    content: "Last updated in June 2025";
+}
+
+html {
+        overflow-y: scroll;
 }
 
 body {
@@ -45,16 +49,19 @@ footer {
     max-width: var(--page-size);
     box-sizing: border-box;
     margin-top: auto;
+    padding-left: 0;
 }
 
 ol {
     margin-top: 0.0em;
     margin-bottom: 0.0em;
+    margin: 0;
+    padding: 0;
 }
     
 li {
-    margin-top: 0.4em;
-    margin-bottom: 0.4em;
+    margin-top: 0.0em;
+    margin-bottom: 0.0em;
     margin-left: 0.3%;
     padding: 0;
 }
@@ -74,31 +81,18 @@ nav {
     max-width: var(--page-size);
     margin: 0 auto;
     box-sizing: border-box;
-}
-
-nav {
     position: sticky;
     top: 0;
     z-index: 10;
 }
-
 nav a {
     color: rgb(26, 115, 232);
     text-decoration: none;
-    margin: 0 1em;
+    margin: 0 0.5em;
 }
 
 nav a:hover {
     text-decoration: underline;
-}
-
-.banner {
-    width: 100%;
-    max-width: var(--page-size);
-    object-fit: cover;
-    margin: 20px auto 1em;
-    border-radius: 8px;
-    box-sizing: border-box;
 }
 
 .container {
@@ -113,21 +107,12 @@ nav a:hover {
 
 .responsive-image {
     width: 45%;
-    max-width: 60%;
+    max-width: 80%;
     height: auto;
     transition: width 0.3s ease;
     border-radius: 0px;
     margin-bottom: 1em;
     margin-top: 0.4em;
-}
-
-iframe {
-    width: 60%;
-    height: 60%;
-    max-width: 60%;
-    transition: width 0.3s ease;
-    border-radius: 0px;
-    margin-bottom: 1em;
 }
 
 .center {
@@ -180,6 +165,8 @@ content {
 ul {
     margin-top: 0;
     margin-bottom: 0;
+    margin: 0;
+    padding: 0;
 }
 
 p {

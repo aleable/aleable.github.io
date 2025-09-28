@@ -99,7 +99,8 @@ nav a:hover {
 
 /* Hamburger toggle button */
 .nav-toggle {
-  display: none;
+  position: absolute;
+  left: -9999px;
 }
 
 .nav-toggle-label {

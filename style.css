@@ -135,7 +135,6 @@ nav a:hover {
   top: 8px;
 }
 
-/* Mobile styles */
 @media (max-width: 768px) {
   nav {
     flex-wrap: wrap;
@@ -148,8 +147,8 @@ nav a:hover {
   }
 
   .nav-links {
+    display: none !important; /* Force it to stay hidden unless toggled */
     width: 100%;
-    display: none;
     flex-direction: column;
     align-items: flex-start;
     padding: 0.5em 0;
@@ -160,7 +159,7 @@ nav a:hover {
   }
 
   .nav-toggle:checked + .nav-toggle-label + .nav-links {
-    display: flex;
+    display: flex !important;
   }
 }
 

@@ -8,7 +8,7 @@
 }
 
 footer::after {
-    content: "Last updated in September 2025";
+    content: "Last updated in October 2025";
 }
 
 html {
@@ -99,68 +99,69 @@ nav a:hover {
 
 /* Hamburger toggle button */
 .nav-toggle {
-  display: none;
+    display: none;
 }
 
 .nav-toggle-label {
-  display: none;
-  cursor: pointer;
-  padding: 0.68em;
-  margin-left: auto;
+    display: none;
+    cursor: pointer;
+    padding: 0.68em;
+    margin-left: auto;
 }
 
 .nav-toggle-label span,
 .nav-toggle-label span::before,
 .nav-toggle-label span::after {
-  display: block;
-  background: #585858;
-  height: 2px;
-  width: 24px;
-  position: relative;
-  transition: all 0.3s ease;
+    display: block;
+    background: #585858;
+    height: 2px;
+    width: 24px;
+    position: relative;
+    transition: all 0.3s ease;
 }
 
 .nav-toggle-label span::before,
 .nav-toggle-label span::after {
-  content: '';
-  position: absolute;
-  left: 0;
+    content: '';
+    position: absolute;
+    left: 0;
 }
 
 .nav-toggle-label span::before {
-  top: -8px;
+    top: -8px;
 }
 
 .nav-toggle-label span::after {
-  top: 8px;
+    top: 8px;
 }
 
 @media (max-width: 768px) {
-  nav {
-    flex-wrap: wrap;
-    justify-content: space-between;
-    padding: 0.5em 1em;
-  }
+    nav {
+        flex-wrap: wrap;
+        justify-content: space-between;
+        padding: 0.5em 1em;
+    }
 
-  .nav-toggle-label {
-    display: block;
-  }
+    .nav-toggle-label {
+        display: block;
+    }
 
-  .nav-links {
-    display: none !important; /* Force it to stay hidden unless toggled */
-    width: 100%;
-    flex-direction: column;
-    align-items: flex-start;
-    padding: 0.5em 0;
-  }
+    .nav-links {
+        display: none !important;
+        /* Force it to stay hidden unless toggled */
+        width: 100%;
+        flex-direction: column;
+        align-items: flex-start;
+        padding: 0.5em 0;
+    }
 
-  .nav-links a {
-    margin: 0.2em 0;
-  }
+    .nav-links a {
+        margin: 0.2em 0;
+    }
 
-  .nav-toggle:checked + .nav-toggle-label + .nav-links {
-    display: flex !important;
-  }
+    .nav-toggle:checked+.nav-toggle-label+.nav-links {
+        display: flex !important;
+    }
 }
 
 .container {

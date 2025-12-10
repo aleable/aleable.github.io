@@ -1,9 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 
 :root {
-    --page-size: 650px;
+    --page-size: 850px;
     --max-width-percentage: 100%;
-    --button-bg-color: rgb(72, 140, 229);
     --button-text-color: #FBFBFB;
 }
 
@@ -17,11 +16,12 @@ html {
 
 body {
     font-family: Helvetica, Arial, sans-serif;
+    font-weight: 350;
     margin: 0;
     height: 100%;
     padding: 0;
-    line-height: 1.5em;
-    color: #585858;
+    line-height: 1.4em;
+    color: #424242;
     background-color: #FBFBFB;
     display: flex;
     flex-direction: column;
@@ -39,7 +39,7 @@ body {
 
 footer {
     background: #FBFBFB;
-    color: #585858;
+    color: #424242;
     padding: 0.5em 0;
     display: flex;
     justify-content: center;
@@ -70,7 +70,7 @@ li {
 
 nav {
     background: #FBFBFB;
-    color: #585858;
+    color: #424242;
     padding: 0.5em 0;
     display: flex;
     justify-content: center;
@@ -88,7 +88,7 @@ nav {
 }
 
 nav a {
-    color: rgb(26, 115, 232);
+    color: rgb(0, 37, 185);
     text-decoration: none;
     margin: 0 0.5em;
 }
@@ -113,7 +113,7 @@ nav a:hover {
 .nav-toggle-label span::before,
 .nav-toggle-label span::after {
     display: block;
-    background: #585858;
+    background: #424242;
     height: 2px;
     width: 24px;
     position: relative;
@@ -175,8 +175,8 @@ nav a:hover {
 }
 
 .responsive-image {
-    width: 45%;
-    max-width: 80%;
+    width: 35%;
+    max-width: 70%;
     height: auto;
     transition: width 0.3s ease;
     border-radius: 0px;
@@ -223,7 +223,7 @@ content {
 }
 
 .content a {
-    color: #1a73e8;
+    color: rgb(0, 37, 185);
     text-decoration: none;
 }
 
@@ -258,7 +258,7 @@ h3 {
 }
 
 .highlighted {
-    border: 1px solid rgb(72, 140, 229);
+    border: 1px solid rgb(0, 37, 185);
     background-color: None;
     border-radius: 4px;
     padding: 8px;

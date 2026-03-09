@@ -1,6 +1,17 @@
 <!DOCTYPE html>
 <html lang="en">
 
+<script>
+    function toggleNote(id) {
+        var x = document.getElementById(id);
+        if (x.style.display === "none") {
+            x.style.display = "block";
+        } else {
+            x.style.display = "none";
+        }
+    }
+</script>
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -40,6 +51,35 @@
                             <a href="files/lonardi2025mp_abstract.pdf">[Abstract]</a>
                             <a href="/files/lonardi2025mp.pdf">[Slides]</a>
                             <a href="https://www.youtube.com/watch?v=2n8T9Mz_rGE">[Video]</a>
+                            <a href="#" onclick="toggleNote('note1'); return false;">[Note]</a>
+                        <div id="note1" class="note" style="display:none; margin-top:8px;">
+                            <p>
+                                Slide number four contains a mistake that I also reiterated verbally during the
+                                presentation.
+                                I realized my mistake after reading <a href="https://arxiv.org/pdf/2602.16937">this
+                                    work</a>.
+                                During the talk, I mixed up the functional form of a spreading
+                                process
+                                (illustrated by the example of a message sent in a group chat) and the structural
+                                representation
+                                of a hypergraph. This example should be omitted.
+                            </p>
+                            <p>
+                                In addition, I was not sufficiently explicit about what I meant when stating that
+                                “hypergraphs and graphs are different objects”. To clarify: I agree that every
+                                hypergraph
+                                can be mapped into an equivalent bipartite graph. Indeed, this equivalence is the
+                                modeling and
+                                algorithmic foundation of <a
+                                    href="https://iopscience.iop.org/article/10.1088/1742-5468/ad343b">our paper</a>. My
+                                intended point was different.
+                                Specifically, that a hypergraph generally induces a factor graph that differs from the
+                                one
+                                obtained
+                                from its clique expansion. This statement corrects the inaccurate one I gave during
+                                the talk.
+                            </p>
+                        </div>
                         </p>
                     </li>
                     <li>

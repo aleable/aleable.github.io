@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;600;700&display=swap');
+
 :root {
     --page-size: 850px;
     --max-width-percentage: 100%;
@@ -17,7 +19,7 @@ body {
     font-weight: 350;
     font-size: 16px;
     line-height: 1.5;
-    color: #1f1f1f;
+    color: #343434;
     background-color: #FBFBFB;
     margin: 0;
     padding: 0;

@@ -283,3 +283,32 @@ h3 {
     padding: 8px;
     transition: border 0s ease-in-out;
 }
+
+.image-pair {
+    display: flex;
+    justify-content: center;
+    gap: 24px;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 2em;
+    margin-top: 1em;
+}
+
+.image-pair img {
+    width: calc(50% - 12px);
+    height: auto;
+    display: block;
+}
+
+@media (max-width: 600px) {
+    .image-pair {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .image-pair img {
+        width: 100%;
+        max-width: 500px;
+    }
+}

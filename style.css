@@ -107,7 +107,7 @@ nav {
 }
 
 nav a {
-    color: rgb(0, 37, 185);
+    color: rgb(4, 37, 170);
     text-decoration: none;
     margin: 0 0.5em;
 }
@@ -242,7 +242,7 @@ content {
 }
 
 .content a {
-    color: rgb(0, 37, 185);
+    color: rgb(4, 37, 170);
     text-decoration: none;
 }
 
@@ -277,7 +277,7 @@ h3 {
 }
 
 .highlighted {
-    border: 1px solid rgb(0, 37, 185);
+    border: 1px solid rgb(4, 37, 170);
     background-color: None;
     border-radius: 4px;
     padding: 8px;
@@ -300,6 +300,37 @@ h3 {
     height: auto;
     display: block;
 }
+
+.btn-link {
+    display: inline-block;
+    color: rgb(4, 37, 170);
+    background-color: #f3f3f3;
+    text-decoration: none;
+    font-size: 1em;
+    padding: 0.00em 0.4em;
+    margin-right: 0.1em;
+    margin-top: 0.2em;
+    border: 0.5px solid rgb(209, 209, 209);
+    border-radius: 4px;
+    line-height: 1.5;
+    white-space: nowrap;
+}
+
+.btn-link-gray {
+    display: inline-block;
+    color: rgb(158, 158, 158);
+    background-color: #f3f3f3;
+    text-decoration: none;
+    font-size: 1em;
+    padding: 0.0em 0.4em;
+    margin-right: 0.0em;
+    margin-top: 0.0em;
+    border: 0.5px solid rgb(209, 209, 209);
+    border-radius: 4px;
+    line-height: 1.5;
+    white-space: nowrap;
+}
+
 
 @media (max-width: 600px) {
     .image-pair {

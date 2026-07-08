@@ -6,6 +6,7 @@
     --button-text-color: #FBFBFB;
 }
 
+
 footer::after {
     content: "Last updated in July 2026";
 }
@@ -303,19 +304,22 @@ h3 {
     display: block;
 }
 
+
 .btn-link {
     display: inline-block;
     color: rgb(4, 37, 170);
     background-color: #f3f3f3;
     text-decoration: none;
-    font-size: 1em;
-    padding: 0.00em 0.4em;
-    margin-right: 0.1em;
-    margin-top: 0.2em;
-    border: 0.5px solid rgb(209, 209, 209);
-    border-radius: 4px;
+    font-size: 1.0em;
+    padding: 0.01em 0.3em;
+    margin: 0.15em 0.2em 0.15em 0;
+    border: none;
+    border-radius: 3px;
     line-height: 1.5;
-    white-space: nowrap;
+}
+
+.btn-link:hover {
+    background-color: #e8e8e8;
 }
 
 .btn-link-gray {
@@ -323,16 +327,13 @@ h3 {
     color: rgb(158, 158, 158);
     background-color: #f3f3f3;
     text-decoration: none;
-    font-size: 1em;
-    padding: 0.0em 0.4em;
-    margin-right: 0.0em;
-    margin-top: 0.0em;
-    border: 0.5px solid rgb(209, 209, 209);
-    border-radius: 4px;
+    font-size: 1.0em;
+    padding: 0.01em 0.3em;
+    margin: 0.15em 0.2em 0.15em 0;
+    border: none;
+    border-radius: 3px;
     line-height: 1.5;
-    white-space: nowrap;
 }
-
 
 @media (max-width: 600px) {
     .image-pair {

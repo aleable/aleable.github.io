@@ -15,6 +15,10 @@ html {
     overflow-y: scroll;
 }
 
+html:has(:target) {
+    scroll-behavior: auto !important;
+}
+
 body {
     font-family: "Roboto", system-ui, -apple-system, Helvetica, Arial, sans-serif;
     font-weight: 400;
@@ -77,12 +81,6 @@ ul.nospace {
 ul.nospace li {
     margin: 0;
     padding: 0;
-}
-
-ol>li {
-    margin-top: 0;
-    margin-bottom: 0.7em;
-    margin-left: 0;
 }
 
 li>p {
@@ -227,14 +225,6 @@ nav a:hover {
     margin-bottom: 0.5em;
 }
 
-content {
-    margin-top: 0;
-    margin-bottom: 0;
-    width: 100%;
-    max-width: var(--page-size);
-
-}
-
 .content h2 {
     margin-bottom: 0.5em;
     margin-top: 1.0em;
@@ -305,9 +295,9 @@ h3 {
 }
 
 
-.btn-link {
+.btn-link,
+.btn-link-gray {
     display: inline-block;
-    color: rgb(4, 37, 170);
     background-color: #f3f3f3;
     text-decoration: none;
     font-size: 1.0em;
@@ -316,6 +306,10 @@ h3 {
     border: none;
     border-radius: 3px;
     line-height: 1.5;
+}
+
+.btn-link {
+    color: rgb(4, 37, 170);
 }
 
 .btn-link:hover {
@@ -323,16 +317,7 @@ h3 {
 }
 
 .btn-link-gray {
-    display: inline-block;
     color: rgb(158, 158, 158);
-    background-color: #f3f3f3;
-    text-decoration: none;
-    font-size: 1.0em;
-    padding: 0.01em 0.3em;
-    margin: 0.15em 0.2em 0.15em 0;
-    border: none;
-    border-radius: 3px;
-    line-height: 1.5;
 }
 
 @media (max-width: 600px) {

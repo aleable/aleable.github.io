@@ -1,5 +1,124 @@
-<!DOCTYPE html>
-<html lang="en">
+---
+layout: default
+title: Talks
+---
+<div class="content">
+    <p>Each category is in reverse chronological order.</p>
+    <h2>Invited talks</h2>
+    <ol>
+        <li>
+            <p>
+                <strong>Understanding the complexity of frequency and phase angle fluctuations in power
+                    grids</strong>
+            <ul class="nospace">
+                <li>Dynamics Days Europe, Lisbon, PT (2026) <span class="btn-link-gray">v2</span></li>
+                <li>3rd British NetSci Symposium, King's College, London, UK (2026) <span
+                        class="btn-link-gray">v1 short</span></li>
+                <li>Workshop “Statistical Physics Methods for Sustainable Energy Systems”,
+                    Stellenbosch, ZA
+                    (2026) <span class="btn-link-gray">v1 long</span></li>
+                <li>Seminar at the University of the Free State, Bloemfontein, ZA (2026) <span
+                        class="btn-link-gray">v1 long</span>
+                </li>
+            </ul>
+
+            <a class="btn-link" href="/files/lonardi2026understanding.pdf">Abstract</a>
+            <a class="btn-link" href="/files/lonardi2026dd.pdf">Slides v2</a>
+            <a class="btn-link" href="/files/lonardi2026stellenbosch.pdf">Slides v1
+                long</a>
+            <a class="btn-link" href="/files/lonardi2026understandingshort.pdf">Slides v1 short</a>
+            <a class="btn-link" href="/talks-src/understanding-power-grids.html">Useful material</a>
+            <a class="btn-link" href="#" onclick="toggleNote('note1'); return false;">Note</a>
+            <div id="note1" class="note" style="display:none; margin-top:8px;">
+                <p>
+                    The first versions of this presentation (v1 long and v1 short) contained a mistake. They
+                    reported the shares of electricity generation by source for Africa as a whole in 2023,
+                    based on <a href="https://www.iea.org/regions/africa/electricity">data from the
+                        International Energy Agency</a>. The corresponding figures for South
+                    Africa in 2023 are, of course, different and are reported <a
+                        href="https://www.iea.org/countries/south-africa/electricity">here</a>. The relevant
+                    figure has
+                    been corrected in the second version of the presentation (v2).
+                </p>
+            </div>
+            </p>
+        </li>
+        <li>
+            <p>
+                <strong>Message-passing on hypergraphs: detectability, phase transitions and higher-order
+                    information</strong><br />
+                Complex Systems Seminar, Queen Mary University of London, London, UK (2025)<br />
+                <a class="btn-link" href="/files/lonardi2025mp_abstract.pdf">Abstract</a>
+                <a class="btn-link" href="/files/lonardi2025mp.pdf">Slides</a>
+                <a class="btn-link" href="https://www.youtube.com/watch?v=2n8T9Mz_rGE">Video</a>
+                <a class="btn-link" href="#" onclick="toggleNote('note2'); return false;">Note</a>
+            <div id="note2" class="note" style="display:none; margin-top:8px;">
+                <p>
+                    Slide number four contains a mistake that I also reiterated verbally during the
+                    presentation.
+                    I realized my mistake after reading <a href="https://arxiv.org/abs/2602.16937">this
+                        work</a>.
+                    In the talk, I was not sufficiently explicit about what I meant when stating that
+                    “hypergraphs and graphs are different objects”. To clarify: I agree that every
+                    hypergraph
+                    admits an equivalent bipartite graph representation. Indeed, this equivalence is the
+                    modeling and
+                    algorithmic foundation of <a
+                        href="https://iopscience.iop.org/article/10.1088/1742-5468/ad343b">our paper</a>. My
+                    intended point was different and simpler.
+                    Specifically, a hypergraph generally induces a factor graph that differs from the
+                    hypergraph's clique expansion.
+                </p>
+            </div>
+            </p>
+        </li>
+        <li>
+            <p>
+                <strong>From gridlock to sustainable transport through flow modeling</strong><br />
+                Seminar at the Social Complexity Lab, DTU Compute, online (2025)<br />
+                <a class="btn-link" href="/files/lonardi2025dtuflow.pdf">Slides</a>
+            </p>
+        </li>
+        <li>
+            <p>
+                <strong>Bilevel optimization for traffic mitigation in optimal transport
+                    networks</strong><br />
+                Research Seminar on Mathematical Optimization, Saarland University, online (2024)<br />
+                <a class="btn-link" href="/files/lonardi2024mop.pdf">Slides</a>
+            </p>
+        </li>
+    </ol>
+
+    <h2>Contributed talks</h2>
+    <ol>
+        <li>
+            <p>
+                <strong>Bilevel optimization for flow control in optimal transport network</strong><br />
+                Netsci 2023, Vienna, AT (2023)<br />
+                <a class="btn-link" href="/files/lonardi2023bilopt.pdf">Abstract</a>
+                <a class="btn-link" href="/files/lonardi2023netscibilopt.pdf">Slides</a>
+            </p>
+        </li>
+        <li>
+            <p>
+                <strong>Infrastructure adaptation and emergence of loops in network routing with
+                    time-dependent loads</strong><br />
+                Netsci 2023 Satellite, Networks & Cities, Vienna, AT (2023)<br />
+                <a class="btn-link" href="/files/lonardi2023tvf.pdf">Abstract</a>
+                <a class="btn-link" href="/files/lonardi2023netscitvf.pdf">Slides</a>
+            </p>
+        </li>
+        <li>
+            <p>
+                <strong>Optimal transport in networks for design and flux optimization</strong><br />
+                NetPLACE Seminars, online (2023)<br />
+                <a class="btn-link" href="/files/lonardi2023netplace.pdf">Slides</a>
+                <a class="btn-link"
+                    href="https://www.youtube.com/watch?v=8MzMNxqc4D0&ab_channel=NetPLACE">Video</a>
+            </p>
+        </li>
+    </ol>
+</div>
 
 <script>
     function toggleNote(id) {
@@ -11,157 +130,3 @@
         }
     }
 </script>
-
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Alessandro Lonardi | Talks</title>
-    <link rel="stylesheet" href="style.css">
-    <link rel="icon" type="image/svg+xml" sizes="any"
-        href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📚</text></svg>">
-</head>
-
-<body>
-    <nav>
-        <input type="checkbox" id="nav-toggle" class="nav-toggle" />
-        <label for="nav-toggle" class="nav-toggle-label">
-            <span></span>
-        </label>
-        <div class="nav-links">
-            <a href="index.html">Home</a>
-            <a href="publications.html">Publications</a>
-            <a href="talks.html">Talks</a>
-            <a href="code.html">Code</a>
-            <a href="teaching.html">Teaching</a>
-            <a href="contact.html">Contacts</a>
-            <a href="misc.html">Misc</a>
-        </div>
-        </div>
-    </nav>
-
-    <div class="page">
-        <div class="container">
-            <div class="content">
-                <p>Each category is in reverse chronological order.</p>
-                <h2>Invited talks</h2>
-                <ol>
-                    <li>
-                        <p>
-                            <strong>Understanding the complexity of frequency and phase angle fluctuations in power
-                                grids</strong>
-                        <ul class="nospace">
-                            <li>Dynamics Days Europe, Lisbon, PT (2026) <span class="btn-link-gray">v2</span></li>
-                            <li>3rd British NetSci Symposium, King's College, London, UK (2026) <span
-                                    class="btn-link-gray">v1 short</span></li>
-                            <li>Workshop “Statistical Physics Methods for Sustainable Energy Systems”,
-                                Stellenbosch, ZA
-                                (2026) <span class="btn-link-gray">v1 long</span></li>
-                            <li>Seminar at the University of the Free State, Bloemfontein, ZA (2026) <span
-                                    class="btn-link-gray">v1 long</span>
-                            </li>
-                        </ul>
-
-                        <a class="btn-link" href="files/lonardi2026understanding.pdf">Abstract</a>
-                        <a class="btn-link" href="/files/lonardi2026dd.pdf">Slides v2</a>
-                        <a class="btn-link" href="/files/lonardi2026stellenbosch.pdf">Slides v1
-                            long</a>
-                        <a class="btn-link" href="/files/lonardi2026understandingshort.pdf">Slides v1 short</a>
-                        <a class="btn-link" href="/talks-src/understanding-power-grids.html">Useful material</a>
-                        <a class="btn-link" href="#" onclick="toggleNote('note1'); return false;">Note</a>
-                        <div id="note1" class="note" style="display:none; margin-top:8px;">
-                            <p>
-                                The first versions of this presentation (v1 long and v1 short) contained a mistake. They
-                                reported the shares of electricity generation by source for Africa as a whole in 2023,
-                                based on <a href="https://www.iea.org/regions/africa/electricity">data from the
-                                    International Energy Agency</a>. The corresponding figures for South
-                                Africa in 2023 are, of course, different and are reported <a
-                                    href="https://www.iea.org/countries/south-africa/electricity">here</a>. The relevant
-                                figure has
-                                been corrected in the second version of the presentation (v2).
-                            </p>
-                        </div>
-                        </p>
-                    </li>
-                    <li>
-                        <p>
-                            <strong>Message-passing on hypergraphs: detectability, phase transitions and higher-order
-                                information</strong><br />
-                            Complex Systems Seminar, Queen Mary University of London, London, UK (2025)<br />
-                            <a class="btn-link" href="files/lonardi2025mp_abstract.pdf">Abstract</a>
-                            <a class="btn-link" href="/files/lonardi2025mp.pdf">Slides</a>
-                            <a class="btn-link" href="https://www.youtube.com/watch?v=2n8T9Mz_rGE">Video</a>
-                            <a class="btn-link" href="#" onclick="toggleNote('note1'); return false;">Note</a>
-                        <div id="note1" class="note" style="display:none; margin-top:8px;">
-                            <p>
-                                Slide number four contains a mistake that I also reiterated verbally during the
-                                presentation.
-                                I realized my mistake after reading <a href="https://arxiv.org/abs/2602.16937">this
-                                    work</a>.
-                                In the talk, I was not sufficiently explicit about what I meant when stating that
-                                “hypergraphs and graphs are different objects”. To clarify: I agree that every
-                                hypergraph
-                                admits an equivalent bipartite graph representation. Indeed, this equivalence is the
-                                modeling and
-                                algorithmic foundation of <a
-                                    href="https://iopscience.iop.org/article/10.1088/1742-5468/ad343b">our paper</a>. My
-                                intended point was different and simpler.
-                                Specifically, a hypergraph generally induces a factor graph that differs from the
-                                hypergraph's clique expansion.
-                            </p>
-                        </div>
-                        </p>
-                    </li>
-                    <li>
-                        <p>
-                            <strong>From gridlock to sustainable transport through flow modeling</strong><br />
-                            Seminar at the Social Complexity Lab, DTU Compute, online (2025)<br />
-                            <a class="btn-link" href="/files/lonardi2025dtuflow.pdf">Slides</a>
-                        </p>
-                    </li>
-                    <li>
-                        <p>
-                            <strong>Bilevel optimization for traffic mitigation in optimal transport
-                                networks</strong><br />
-                            Research Seminar on Mathematical Optimization, Saarland University, online (2024)<br />
-                            <a class="btn-link" href="files/lonardi2024mop.pdf">Slides</a>
-                        </p>
-                    </li>
-                </ol>
-
-                <h2>Contributed talks</h2>
-                <ol>
-                    <li>
-                        <p>
-                            <strong>Bilevel optimization for flow control in optimal transport network</strong><br />
-                            Netsci 2023, Vienna, AT (2023)<br />
-                            <a class="btn-link" href="files/lonardi2023bilopt.pdf">Abstract</a>
-                            <a class="btn-link" href="files/lonardi2023netscibilopt.pdf">Slides</a>
-                        </p>
-                    </li>
-                    <li>
-                        <p>
-                            <strong>Infrastructure adaptation and emergence of loops in network routing with
-                                time-dependent loads</strong><br />
-                            Netsci 2023 Satellite, Networks & Cities, Vienna, AT (2023)<br />
-                            <a class="btn-link" href="files/lonardi2023tvf.pdf">Abstract</a>
-                            <a class="btn-link" href="files/lonardi2023netscitvf.pdf">Slides</a>
-                        </p>
-                    </li>
-                    <li>
-                        <p>
-                            <strong>Optimal transport in networks for design and flux optimization</strong><br />
-                            NetPLACE Seminars, online (2023)<br />
-                            <a class="btn-link" href="files/lonardi2023netplace.pdf">Slides</a>
-                            <a class="btn-link"
-                                href="https://www.youtube.com/watch?v=8MzMNxqc4D0&ab_channel=NetPLACE">Video</a>
-                        </p>
-                    </li>
-                </ol>
-            </div>
-        </div>
-    </div>
-    <footer>
-    </footer>
-</body>
-
-</html>

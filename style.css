@@ -113,10 +113,6 @@ nav a {
     margin: 0 0.5em;
 }
 
-nav a:hover {
-    text-decoration: underline;
-}
-
 /* Hamburger toggle button */
 .nav-toggle {
     display: none;
@@ -239,10 +235,6 @@ nav a:hover {
     text-decoration: none;
 }
 
-.content a:hover {
-    text-decoration: underline;
-}
-
 ul {
     margin-top: 0;
     margin-bottom: 0;
@@ -310,10 +302,6 @@ h3 {
 
 .btn-link {
     color: rgb(4, 37, 170);
-}
-
-.btn-link:hover {
-    background-color: #e8e8e8;
 }
 
 .btn-link-gray {

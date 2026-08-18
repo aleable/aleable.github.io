@@ -6,7 +6,6 @@
     --button-text-color: #FBFBFB;
 }
 
-
 footer::after {
     content: "Last updated in July 2026";
 }
@@ -86,7 +85,6 @@ ul.nospace li {
 li>p {
     margin: 0;
 }
-
 
 nav {
     background: #FBFBFB;
@@ -285,7 +283,6 @@ h3 {
     height: auto;
     display: block;
 }
-
 
 .btn-link,
 .btn-link-gray {

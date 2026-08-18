@@ -1,13 +1,19 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;600;700&display=swap');
 
 :root {
-    --page-size: 850px;
+    --page-size: 820px;
     --max-width-percentage: 100%;
-    --button-text-color: #FBFBFB;
+    --bg: #fafafa;
+    --text: #1c1c1c;
+    --text-muted: #5f5f5f;
+    --link: rgb(4, 37, 170);
+    --link-visited: rgb(4, 37, 170);
+    --border: #e2e2e2;
+    --border-strong: #cfcfcf;
 }
 
 footer::after {
-    content: "Last updated in July 2026";
+    content: "Last updated in August 2026";
 }
 
 html {
@@ -22,9 +28,9 @@ body {
     font-family: "Roboto", system-ui, -apple-system, Helvetica, Arial, sans-serif;
     font-weight: 400;
     font-size: 16px;
-    line-height: 1.6;
-    color: #3d3d3d;
-    background-color: #FBFBFB;
+    line-height: 1.65;
+    color: var(--text);
+    background-color: var(--bg);
     margin: 0;
     padding: 0;
     display: flex;
@@ -41,13 +47,13 @@ body {
 }
 
 footer {
-    background: #FBFBFB;
-    color: #3d3d3d;
+    background: var(--bg);
+    color: var(--text-muted);
     padding: 0.5em 0;
     display: flex;
     justify-content: center;
     align-items: center;
-    border-top: 1.0px solid #cecece;
+    border-top: 1px solid var(--border);
     border-left: none;
     border-right: none;
     width: var(--max-width-percentage);
@@ -60,13 +66,13 @@ footer {
 ol {
     margin-top: 0.0em;
     margin-bottom: 0.0em;
-    margin-left: 1.5em;
+    margin-left: 1.4em;
     padding: 0;
 }
 
 li {
     margin-top: 0.0em;
-    margin-bottom: 0.7em;
+    margin-bottom: 0.9em;
     margin-left: 0em;
     padding: 0;
 }
@@ -87,13 +93,13 @@ li>p {
 }
 
 nav {
-    background: #FBFBFB;
-    color: #3d3d3d;
+    background: var(--bg);
+    color: var(--text);
     padding: 0.5em 0;
     display: flex;
     justify-content: center;
     align-items: center;
-    border-bottom: 1.0px solid #cecece;
+    border-bottom: 1px solid var(--border);
     border-left: none;
     border-right: none;
     width: var(--max-width-percentage);
@@ -106,9 +112,18 @@ nav {
 }
 
 nav a {
-    color: rgb(4, 37, 170);
+    color: var(--link);
     text-decoration: none;
-    margin: 0 0.5em;
+    margin: 0 0.9em;
+    font-size: 0.95em;
+}
+
+nav a:first-child {
+    margin-left: 0;
+}
+
+nav a:hover {
+    text-decoration: underline;
 }
 
 /* Hamburger toggle button */
@@ -127,9 +142,9 @@ nav a {
 .nav-toggle-label span::before,
 .nav-toggle-label span::after {
     display: block;
-    background: #4d4d4d;
-    height: 2px;
-    width: 24px;
+    background: var(--text);
+    height: 1.5px;
+    width: 22px;
     position: relative;
     transition: all 0.3s ease;
 }
@@ -142,11 +157,11 @@ nav a {
 }
 
 .nav-toggle-label span::before {
-    top: -8px;
+    top: -7px;
 }
 
 .nav-toggle-label span::after {
-    top: 8px;
+    top: 7px;
 }
 
 @media (max-width: 768px) {
@@ -170,7 +185,7 @@ nav a {
     }
 
     .nav-links a {
-        margin: 0.2em 0;
+        margin: 0.3em 0;
     }
 
     .nav-toggle:checked+.nav-toggle-label+.nav-links {
@@ -180,7 +195,7 @@ nav a {
 
 .container {
     flex-grow: 1;
-    padding: 1.05em 1.05em 0.5em 1.05em;
+    padding: 1.6em 1.1em 0.5em 1.1em;
     display: flex;
     justify-content: left;
     align-items: left;
@@ -189,13 +204,13 @@ nav a {
 }
 
 .responsive-image {
-    width: 35%;
-    max-width: 70%;
+    width: 30%;
+    max-width: 60%;
     height: auto;
     transition: width 0.3s ease;
     border-radius: 0px;
-    margin-bottom: 1em;
-    margin-top: 0.4em;
+    margin-bottom: 1.1em;
+    margin-top: 0.2em;
 }
 
 .center {
@@ -208,7 +223,11 @@ nav a {
     width: 100%;
     max-width: var(--page-size);
     text-align: center;
-    margin-bottom: 0;
+    margin-bottom: 0.4em;
+}
+
+.contact-info h3 {
+    font-size: 1.3em;
 }
 
 .contact-info p {
@@ -217,11 +236,16 @@ nav a {
     align-items: center;
     gap: 0.75rem;
     margin-bottom: 0.5em;
+    color: var(--text-muted);
 }
 
 .content h2 {
-    margin-bottom: 0.5em;
-    margin-top: 1.0em;
+    margin-bottom: 0.6em;
+    margin-top: 1.4em;
+    padding-bottom: 0.25em;
+    font-size: 1.25em;
+    font-weight: 600;
+    border-bottom: 1px solid var(--border);
 }
 
 .content p {
@@ -229,20 +253,24 @@ nav a {
 }
 
 .content a {
-    color: rgb(4, 37, 170);
+    color: var(--link);
     text-decoration: none;
+}
+
+.content a:hover {
+    text-decoration: underline;
 }
 
 ul {
     margin-top: 0;
     margin-bottom: 0;
-    margin-left: 1.5em;
+    margin-left: 1.4em;
     padding: 0;
 }
 
 p {
-    margin-bottom: 0.4em;
-    margin-top: 0.4em;
+    margin-bottom: 0.5em;
+    margin-top: 0.5em;
     text-align: left;
     hyphens: auto;
     max-width: 100%;
@@ -257,14 +285,26 @@ p {
 h3 {
     margin-bottom: 0;
     margin-top: 0;
+    font-weight: 600;
 }
 
 .highlighted {
-    border: 1px solid rgb(4, 37, 170);
-    background-color: None;
-    border-radius: 4px;
+    border: 1px solid var(--link);
+    background-color: transparent;
+    border-radius: 3px;
     padding: 8px;
     transition: border 0s ease-in-out;
+}
+
+.note {
+    border-left: 2px solid var(--border-strong);
+    padding-left: 0.9em;
+    color: var(--text-muted);
+    font-size: 0.95em;
+}
+
+.email {
+    color: var(--text);
 }
 
 .image-pair {
@@ -286,23 +326,59 @@ h3 {
 
 .btn-link,
 .btn-link-gray {
-    display: inline-block;
-    background-color: #f3f3f3;
+    display: inline;
+    background: none;
     text-decoration: none;
-    font-size: 1.0em;
-    padding: 0.01em 0.3em;
-    margin: 0.15em 0.2em 0.15em 0;
+    font-size: 0.95em;
+    padding: 0;
+    margin: 0;
     border: none;
-    border-radius: 3px;
-    line-height: 1.5;
+    line-height: 1.6;
 }
 
 .btn-link {
-    color: rgb(4, 37, 170);
+    color: var(--link);
+}
+
+.btn-link:hover {
+    text-decoration: underline;
 }
 
 .btn-link-gray {
-    color: rgb(158, 158, 158);
+    color: var(--text-muted);
+}
+
+a:is(.btn-link, .btn-link-gray) + a:is(.btn-link, .btn-link-gray)::before {
+    content: "|";
+    display: inline-block;
+    color: var(--border-strong);
+    margin: 0 0.6em;
+}
+
+.cite-ref {
+    margin-left: 0.15em;
+    white-space: nowrap;
+}
+
+.cite-ref a {
+    color: var(--link);
+    text-decoration: none;
+}
+
+.cite-ref a:hover {
+    text-decoration: underline;
+}
+
+.sep {
+    color: var(--border-strong);
+}
+
+.ref-text {
+    color: var(--text-muted);
+}
+
+#references-list li {
+    margin-bottom: 0.5em;
 }
 
 @media (max-width: 600px) {

@@ -115,7 +115,6 @@ nav a {
     color: var(--link);
     text-decoration: none;
     margin: 0 0.9em;
-    font-size: 0.95em;
 }
 
 nav a:first-child {
@@ -300,7 +299,6 @@ h3 {
     border-left: 2px solid var(--border-strong);
     padding-left: 0.9em;
     color: var(--text-muted);
-    font-size: 0.95em;
 }
 
 .email {
@@ -329,7 +327,7 @@ h3 {
     display: inline;
     background: none;
     text-decoration: none;
-    font-size: 0.95em;
+    font-size: 1.0em;
     padding: 0;
     margin: 0;
     border: none;

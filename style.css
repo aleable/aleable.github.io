@@ -347,10 +347,9 @@ h3 {
 }
 
 a:is(.btn-link, .btn-link-gray) + a:is(.btn-link, .btn-link-gray)::before {
-    content: "|";
+    content: "\2002|\2002";
     display: inline-block;
     color: var(--border-strong);
-    margin: 0 0.6em;
 }
 
 .cite-ref {

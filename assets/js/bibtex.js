@@ -256,7 +256,7 @@
     function renderReferenceItem(entry) {
         const title = escapeHtml(entry.fields.title || "");
         const authorsShort = renderAuthorsShort(entry.fields.author);
-        const authorsPunct = authorsShort.endsWith(".") ? authorsShort : `${authorsShort}.`;
+        const authorsPunct = `${authorsShort},`;
         const venueText = shortVenueText(entry);
         const venue = venueText ? `<span class="ref-text">${escapeHtml(venueText)}</span>` : "";
         const pubLink = `<a class="btn-link" href="/publications.html#${entry.key}">Publication</a>`;

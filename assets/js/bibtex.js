@@ -175,12 +175,44 @@
         return parts.join("");
     }
 
+    // Small figure to the left of an entry; it grows on hover or tap.
+    function renderThumb(entry) {
+        const src = entry.fields.figure;
+        if (!src) return "";
+        return `<button type="button" class="pub-thumb" aria-expanded="false" aria-label="Magnify figure"><img src="${escapeHtml(src)}" alt="Figure for ${escapeHtml(entry.fields.title || "")}" loading="lazy" /></button>`;
+    }
+
+    // Tap (or click) toggles a thumbnail; tapping elsewhere, Escape or
+    // moving the mouse away closes it. Mouse hover is handled in CSS.
+    function setupThumbs(container) {
+        const closeAll = (except) => {
+            container.querySelectorAll('.pub-thumb[aria-expanded="true"]').forEach((t) => {
+                if (t !== except) t.setAttribute("aria-expanded", "false");
+            });
+        };
+        document.addEventListener("click", (event) => {
+            const thumb = event.target.closest(".pub-thumb");
+            closeAll(thumb);
+            if (thumb) {
+                const open = thumb.getAttribute("aria-expanded") !== "true";
+                thumb.setAttribute("aria-expanded", String(open));
+            }
+        });
+        document.addEventListener("keydown", (event) => {
+            if (event.key === "Escape") closeAll(null);
+        });
+        container.querySelectorAll(".pub-thumb").forEach((thumb) => {
+            thumb.addEventListener("mouseleave", () => thumb.setAttribute("aria-expanded", "false"));
+        });
+    }
+
     function renderEntry(entry) {
         const title = escapeHtml(entry.fields.title || "");
         const authors = renderAuthors(entry.fields.author);
         const referenceText = renderReferenceText(entry);
         const linksRow = renderLinksRow(entry);
-        return `<li>
+        const thumb = renderThumb(entry);
+        return `<li${thumb ? ' class="has-thumb"' : ""}>${thumb}
             <p id="${entry.key}">
                 <strong>${title}</strong><br />
                 ${authors}<br />
@@ -205,6 +237,7 @@
             .join("\n");
 
         container.innerHTML = html;
+        setupThumbs(container);
     }
 
     function applyHashHighlight() {

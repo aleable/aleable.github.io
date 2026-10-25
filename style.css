@@ -512,74 +512,84 @@ span:is(.btn-link, .btn-link-gray)+a:is(.btn-link, .btn-link-gray)::before {
     color: var(--border-strong);
 }
 
-/* publications: thumbnail spanning the entry's lines, enlarged on hover or tap */
+/* publications: static thumbnail linking to the full-size image */
 .has-thumb>p {
     overflow: hidden;
 }
 
-/* fixed slot keeps the text in place while the image grows out of it */
 .pub-thumb {
     float: right;
-    position: relative;
+    width: 79px;
+    margin: 0.2em 0 0 0.9em;
+    text-align: center;
+    text-decoration: none;
+}
+
+.pub-thumb img {
+    display: block;
     width: 79px;
     height: 79px;
-    margin: 0.2em 0 0 0.9em;
-    padding: 0;
-    border: none;
-    background: none;
-    cursor: zoom-in;
-}
-
-.pub-thumb[aria-expanded="true"] {
-    cursor: zoom-out;
-}
-
-/* sizes animate instead of scaling, so the border stays 1px */
-.pub-thumb img {
-    position: absolute;
-    top: 0;
-    right: 0;
-    display: block;
-    width: 100%;
-    height: 100%;
     border: 1px solid var(--border-strong);
     background: #fff;
     box-sizing: border-box;
-    transition: width 0.15s ease-in, height 0.15s ease-in;
 }
 
-.pub-thumb[aria-expanded="true"] img {
-    width: min(360px, 80vw);
-    height: min(360px, 80vw);
-    z-index: 1;
-    transition: width 0.22s cubic-bezier(0.2, 0, 0, 1), height 0.22s cubic-bezier(0.2, 0, 0, 1);
-}
-
-/* mouse and trackpad only: magnify after a short hover, so passing over does nothing */
-@media (hover: hover) and (pointer: fine) {
-    .pub-thumb:hover img {
-        width: min(360px, 80vw);
-        height: min(360px, 80vw);
-        z-index: 1;
-        transition: width 0.22s cubic-bezier(0.2, 0, 0, 1) 0.1s, height 0.22s cubic-bezier(0.2, 0, 0, 1) 0.1s;
-    }
+.pub-thumb:hover img,
+.pub-thumb:focus-visible img {
+    border-color: var(--link);
 }
 
 .pub-thumb:focus-visible {
-    outline: none;
-}
-
-.pub-thumb:focus-visible img {
     outline: 1px dotted var(--link);
     outline-offset: 2px;
 }
 
-@media (prefers-reduced-motion: reduce) {
-    .pub-thumb img,
-    .pub-thumb:hover img,
-    .pub-thumb[aria-expanded="true"] img {
-        transition: none;
-    }
+/* figure preview: centred over the page, which is dimmed behind it */
+.preview-overlay {
+    position: fixed;
+    inset: 0;
+    z-index: 100;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 16px;
+    background: rgba(0, 0, 0, 0.7);
+}
+
+.preview-overlay[hidden] {
+    display: none;
+}
+
+.preview-box {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+
+.preview-box img {
+    display: block;
+    width: min(360px, 80vw);
+    height: auto;
+    border: 1px solid var(--border-strong);
+    background: #fff;
+    box-sizing: border-box;
+}
+
+.preview-close {
+    margin: 0 0 0.3em;
+    padding: 0;
+    border: none;
+    background: none;
+    color: #fff;
+    font: inherit;
+    font-size: var(--font-size);
+    cursor: pointer;
+}
+
+.preview-close:hover,
+.preview-close:focus-visible {
+    text-decoration: underline;
+    outline: none;
 }
 
 .cite-ref {

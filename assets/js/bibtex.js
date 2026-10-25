@@ -175,34 +175,50 @@
         return parts.join("");
     }
 
-    // Small figure to the left of an entry; it grows on hover or tap.
+    // Small figure beside an entry; clicking it opens the preview below
+    // (the link to the image is the fallback without JavaScript).
     function renderThumb(entry) {
-        const src = entry.fields.figure;
+        const src = escapeHtml(entry.fields.figure || "");
         if (!src) return "";
-        return `<button type="button" class="pub-thumb" aria-expanded="false" aria-label="Magnify figure"><img src="${escapeHtml(src)}" alt="Figure for ${escapeHtml(entry.fields.title || "")}" loading="lazy" /></button>`;
+        return `<a class="pub-thumb" href="${src}"><img src="${src}" alt="Figure for ${escapeHtml(entry.fields.title || "")}" loading="lazy" /></a>`;
     }
 
-    // Tap (or click) toggles a thumbnail; tapping elsewhere, Escape or
-    // moving the mouse away closes it. Mouse hover is handled in CSS.
-    function setupThumbs(container) {
-        const closeAll = (except) => {
-            container.querySelectorAll('.pub-thumb[aria-expanded="true"]').forEach((t) => {
-                if (t !== except) t.setAttribute("aria-expanded", "false");
-            });
+    // Preview over a dimmed page; closed by the button, a click on the
+    // backdrop or Escape.
+    function setupPreview(container) {
+        const overlay = document.createElement("div");
+        overlay.className = "preview-overlay";
+        overlay.hidden = true;
+        overlay.innerHTML = `<div class="preview-box" role="dialog" aria-modal="true" aria-label="Figure preview">
+                <button type="button" class="preview-close">[close]</button>
+                <img alt="" />
+            </div>`;
+        document.body.appendChild(overlay);
+        const img = overlay.querySelector("img");
+        const closeBtn = overlay.querySelector(".preview-close");
+        let opener = null;
+
+        const close = () => {
+            overlay.hidden = true;
+            if (opener) opener.focus();
+            opener = null;
         };
-        document.addEventListener("click", (event) => {
+        container.addEventListener("click", (event) => {
             const thumb = event.target.closest(".pub-thumb");
-            closeAll(thumb);
-            if (thumb) {
-                const open = thumb.getAttribute("aria-expanded") !== "true";
-                thumb.setAttribute("aria-expanded", String(open));
-            }
+            if (!thumb) return;
+            event.preventDefault();
+            const thumbImg = thumb.querySelector("img");
+            img.src = thumb.getAttribute("href");
+            img.alt = thumbImg ? thumbImg.alt : "";
+            opener = thumb;
+            overlay.hidden = false;
+            closeBtn.focus();
+        });
+        overlay.addEventListener("click", (event) => {
+            if (event.target === overlay || event.target === closeBtn) close();
         });
         document.addEventListener("keydown", (event) => {
-            if (event.key === "Escape") closeAll(null);
-        });
-        container.querySelectorAll(".pub-thumb").forEach((thumb) => {
-            thumb.addEventListener("mouseleave", () => thumb.setAttribute("aria-expanded", "false"));
+            if (event.key === "Escape" && !overlay.hidden) close();
         });
     }
 
@@ -237,7 +253,7 @@
             .join("\n");
 
         container.innerHTML = html;
-        setupThumbs(container);
+        setupPreview(container);
     }
 
     function applyHashHighlight() {

@@ -462,22 +462,6 @@ ul.nospace li {
     color: var(--text);
 }
 
-.image-pair {
-    display: flex;
-    justify-content: center;
-    gap: 20px;
-    margin: 0.8em auto 1em;
-}
-
-.image-pair img {
-    width: var(--figure-size);
-    height: auto;
-    flex: none;
-    display: block;
-    border: 1px solid var(--border-strong);
-    background: var(--paper);
-}
-
 .btn-link,
 .btn-link-gray {
     display: inline;
